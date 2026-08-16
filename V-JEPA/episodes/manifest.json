@@ -1,0 +1,1502 @@
+[
+  {
+    "path": "episodes/ep_0000.npz",
+    "radius": 6.1848084366072715,
+    "seed": 0
+  },
+  {
+    "path": "episodes/ep_0001.npz",
+    "radius": 5.559108123501284,
+    "seed": 1
+  },
+  {
+    "path": "episodes/ep_0002.npz",
+    "radius": 4.308060671246582,
+    "seed": 2
+  },
+  {
+    "path": "episodes/ep_0003.npz",
+    "radius": 3.428245835718122,
+    "seed": 3
+  },
+  {
+    "path": "episodes/ep_0004.npz",
+    "radius": 7.715280527861838,
+    "seed": 4
+  },
+  {
+    "path": "episodes/ep_0005.npz",
+    "radius": 7.025014618726901,
+    "seed": 5
+  },
+  {
+    "path": "episodes/ep_0006.npz",
+    "radius": 5.690821757359716,
+    "seed": 6
+  },
+  {
+    "path": "episodes/ep_0007.npz",
+    "radius": 6.125477333023335,
+    "seed": 7
+  },
+  {
+    "path": "episodes/ep_0008.npz",
+    "radius": 4.634861383027804,
+    "seed": 8
+  },
+  {
+    "path": "episodes/ep_0009.npz",
+    "radius": 7.351246019850423,
+    "seed": 9
+  },
+  {
+    "path": "episodes/ep_0010.npz",
+    "radius": 7.780008548144877,
+    "seed": 10
+  },
+  {
+    "path": "episodes/ep_0011.npz",
+    "radius": 3.642851013845998,
+    "seed": 11
+  },
+  {
+    "path": "episodes/ep_0012.npz",
+    "radius": 4.254122290542231,
+    "seed": 12
+  },
+  {
+    "path": "episodes/ep_0013.npz",
+    "radius": 7.323987935082933,
+    "seed": 13
+  },
+  {
+    "path": "episodes/ep_0014.npz",
+    "radius": 7.154916594445558,
+    "seed": 14
+  },
+  {
+    "path": "episodes/ep_0015.npz",
+    "radius": 6.463716839825762,
+    "seed": 15
+  },
+  {
+    "path": "episodes/ep_0016.npz",
+    "radius": 5.834584194396825,
+    "seed": 16
+  },
+  {
+    "path": "episodes/ep_0017.npz",
+    "radius": 7.225373963989508,
+    "seed": 17
+  },
+  {
+    "path": "episodes/ep_0018.npz",
+    "radius": 4.996528846087864,
+    "seed": 18
+  },
+  {
+    "path": "episodes/ep_0019.npz",
+    "radius": 5.101893978646304,
+    "seed": 19
+  },
+  {
+    "path": "episodes/ep_0020.npz",
+    "radius": 4.4003798131507965,
+    "seed": 20
+  },
+  {
+    "path": "episodes/ep_0021.npz",
+    "radius": 6.905587944087355,
+    "seed": 21
+  },
+  {
+    "path": "episodes/ep_0022.npz",
+    "radius": 4.831734577160381,
+    "seed": 22
+  },
+  {
+    "path": "episodes/ep_0023.npz",
+    "radius": 6.469665403286822,
+    "seed": 23
+  },
+  {
+    "path": "episodes/ep_0024.npz",
+    "radius": 4.651344183346577,
+    "seed": 24
+  },
+  {
+    "path": "episodes/ep_0025.npz",
+    "radius": 3.803606166160039,
+    "seed": 25
+  },
+  {
+    "path": "episodes/ep_0026.npz",
+    "radius": 5.457994588024523,
+    "seed": 26
+  },
+  {
+    "path": "episodes/ep_0027.npz",
+    "radius": 6.488681082383927,
+    "seed": 27
+  },
+  {
+    "path": "episodes/ep_0028.npz",
+    "radius": 7.259169679910789,
+    "seed": 28
+  },
+  {
+    "path": "episodes/ep_0029.npz",
+    "radius": 3.2502348517703448,
+    "seed": 29
+  },
+  {
+    "path": "episodes/ep_0030.npz",
+    "radius": 4.178994024062664,
+    "seed": 30
+  },
+  {
+    "path": "episodes/ep_0031.npz",
+    "radius": 7.515859054574302,
+    "seed": 31
+  },
+  {
+    "path": "episodes/ep_0032.npz",
+    "radius": 3.8012141518738405,
+    "seed": 32
+  },
+  {
+    "path": "episodes/ep_0033.npz",
+    "radius": 5.2182111848133355,
+    "seed": 33
+  },
+  {
+    "path": "episodes/ep_0034.npz",
+    "radius": 3.0201412174652176,
+    "seed": 34
+  },
+  {
+    "path": "episodes/ep_0035.npz",
+    "radius": 4.689747794418623,
+    "seed": 35
+  },
+  {
+    "path": "episodes/ep_0036.npz",
+    "radius": 3.9031654561208473,
+    "seed": 36
+  },
+  {
+    "path": "episodes/ep_0037.npz",
+    "radius": 6.520765158067848,
+    "seed": 37
+  },
+  {
+    "path": "episodes/ep_0038.npz",
+    "radius": 5.428805224189338,
+    "seed": 38
+  },
+  {
+    "path": "episodes/ep_0039.npz",
+    "radius": 5.508559785757041,
+    "seed": 39
+  },
+  {
+    "path": "episodes/ep_0040.npz",
+    "radius": 6.649492476323588,
+    "seed": 40
+  },
+  {
+    "path": "episodes/ep_0041.npz",
+    "radius": 7.7707555148100225,
+    "seed": 41
+  },
+  {
+    "path": "episodes/ep_0042.npz",
+    "radius": 6.869780242779816,
+    "seed": 42
+  },
+  {
+    "path": "episodes/ep_0043.npz",
+    "radius": 6.261496313504553,
+    "seed": 43
+  },
+  {
+    "path": "episodes/ep_0044.npz",
+    "radius": 3.612827548369358,
+    "seed": 44
+  },
+  {
+    "path": "episodes/ep_0045.npz",
+    "radius": 5.865653284737528,
+    "seed": 45
+  },
+  {
+    "path": "episodes/ep_0046.npz",
+    "radius": 7.52802138345156,
+    "seed": 46
+  },
+  {
+    "path": "episodes/ep_0047.npz",
+    "radius": 6.709009973212803,
+    "seed": 47
+  },
+  {
+    "path": "episodes/ep_0048.npz",
+    "radius": 4.938499361427972,
+    "seed": 48
+  },
+  {
+    "path": "episodes/ep_0049.npz",
+    "radius": 4.814270961380681,
+    "seed": 49
+  },
+  {
+    "path": "episodes/ep_0050.npz",
+    "radius": 6.937113459433118,
+    "seed": 50
+  },
+  {
+    "path": "episodes/ep_0051.npz",
+    "radius": 7.712205981352084,
+    "seed": 51
+  },
+  {
+    "path": "episodes/ep_0052.npz",
+    "radius": 6.078814774012164,
+    "seed": 52
+  },
+  {
+    "path": "episodes/ep_0053.npz",
+    "radius": 3.0556349728213315,
+    "seed": 53
+  },
+  {
+    "path": "episodes/ep_0054.npz",
+    "radius": 4.112257723359475,
+    "seed": 54
+  },
+  {
+    "path": "episodes/ep_0055.npz",
+    "radius": 7.161260917274753,
+    "seed": 55
+  },
+  {
+    "path": "episodes/ep_0056.npz",
+    "radius": 6.6306302498177,
+    "seed": 56
+  },
+  {
+    "path": "episodes/ep_0057.npz",
+    "radius": 6.4208335157777086,
+    "seed": 57
+  },
+  {
+    "path": "episodes/ep_0058.npz",
+    "radius": 4.545059002831223,
+    "seed": 58
+  },
+  {
+    "path": "episodes/ep_0059.npz",
+    "radius": 5.938735793331821,
+    "seed": 59
+  },
+  {
+    "path": "episodes/ep_0060.npz",
+    "radius": 4.621419063506382,
+    "seed": 60
+  },
+  {
+    "path": "episodes/ep_0061.npz",
+    "radius": 4.871871414388206,
+    "seed": 61
+  },
+  {
+    "path": "episodes/ep_0062.npz",
+    "radius": 6.0466008342891575,
+    "seed": 62
+  },
+  {
+    "path": "episodes/ep_0063.npz",
+    "radius": 5.800396859477838,
+    "seed": 63
+  },
+  {
+    "path": "episodes/ep_0064.npz",
+    "radius": 7.717467263702018,
+    "seed": 64
+  },
+  {
+    "path": "episodes/ep_0065.npz",
+    "radius": 3.236957427317355,
+    "seed": 65
+  },
+  {
+    "path": "episodes/ep_0066.npz",
+    "radius": 7.618669389679657,
+    "seed": 66
+  },
+  {
+    "path": "episodes/ep_0067.npz",
+    "radius": 5.071657499511262,
+    "seed": 67
+  },
+  {
+    "path": "episodes/ep_0068.npz",
+    "radius": 5.421833624232832,
+    "seed": 68
+  },
+  {
+    "path": "episodes/ep_0069.npz",
+    "radius": 5.9018618760783745,
+    "seed": 69
+  },
+  {
+    "path": "episodes/ep_0070.npz",
+    "radius": 4.903674226075714,
+    "seed": 70
+  },
+  {
+    "path": "episodes/ep_0071.npz",
+    "radius": 4.267068387186514,
+    "seed": 71
+  },
+  {
+    "path": "episodes/ep_0072.npz",
+    "radius": 7.189183672369,
+    "seed": 72
+  },
+  {
+    "path": "episodes/ep_0073.npz",
+    "radius": 5.463180946440964,
+    "seed": 73
+  },
+  {
+    "path": "episodes/ep_0074.npz",
+    "radius": 7.471891342194536,
+    "seed": 74
+  },
+  {
+    "path": "episodes/ep_0075.npz",
+    "radius": 4.066458407630989,
+    "seed": 75
+  },
+  {
+    "path": "episodes/ep_0076.npz",
+    "radius": 7.031657545787477,
+    "seed": 76
+  },
+  {
+    "path": "episodes/ep_0077.npz",
+    "radius": 6.9296615427124655,
+    "seed": 77
+  },
+  {
+    "path": "episodes/ep_0078.npz",
+    "radius": 5.09431543915161,
+    "seed": 78
+  },
+  {
+    "path": "episodes/ep_0079.npz",
+    "radius": 7.598011936884276,
+    "seed": 79
+  },
+  {
+    "path": "episodes/ep_0080.npz",
+    "radius": 6.682456656717269,
+    "seed": 80
+  },
+  {
+    "path": "episodes/ep_0081.npz",
+    "radius": 5.17056645552816,
+    "seed": 81
+  },
+  {
+    "path": "episodes/ep_0082.npz",
+    "radius": 7.9881937619263255,
+    "seed": 82
+  },
+  {
+    "path": "episodes/ep_0083.npz",
+    "radius": 4.582071599255008,
+    "seed": 83
+  },
+  {
+    "path": "episodes/ep_0084.npz",
+    "radius": 6.660491194639578,
+    "seed": 84
+  },
+  {
+    "path": "episodes/ep_0085.npz",
+    "radius": 3.2216149560549967,
+    "seed": 85
+  },
+  {
+    "path": "episodes/ep_0086.npz",
+    "radius": 6.077311591428919,
+    "seed": 86
+  },
+  {
+    "path": "episodes/ep_0087.npz",
+    "radius": 5.8537821520766,
+    "seed": 87
+  },
+  {
+    "path": "episodes/ep_0088.npz",
+    "radius": 4.031226548949251,
+    "seed": 88
+  },
+  {
+    "path": "episodes/ep_0089.npz",
+    "radius": 5.878885709050165,
+    "seed": 89
+  },
+  {
+    "path": "episodes/ep_0090.npz",
+    "radius": 4.861663899216236,
+    "seed": 90
+  },
+  {
+    "path": "episodes/ep_0091.npz",
+    "radius": 4.415415288339178,
+    "seed": 91
+  },
+  {
+    "path": "episodes/ep_0092.npz",
+    "radius": 6.004321480925477,
+    "seed": 92
+  },
+  {
+    "path": "episodes/ep_0093.npz",
+    "radius": 7.927451881761275,
+    "seed": 93
+  },
+  {
+    "path": "episodes/ep_0094.npz",
+    "radius": 4.198354627756014,
+    "seed": 94
+  },
+  {
+    "path": "episodes/ep_0095.npz",
+    "radius": 5.707282536953965,
+    "seed": 95
+  },
+  {
+    "path": "episodes/ep_0096.npz",
+    "radius": 6.6458451112581365,
+    "seed": 96
+  },
+  {
+    "path": "episodes/ep_0097.npz",
+    "radius": 6.3713670286091695,
+    "seed": 97
+  },
+  {
+    "path": "episodes/ep_0098.npz",
+    "radius": 7.718277705058975,
+    "seed": 98
+  },
+  {
+    "path": "episodes/ep_0099.npz",
+    "radius": 5.530153372741973,
+    "seed": 99
+  },
+  {
+    "path": "episodes/ep_0100.npz",
+    "radius": 7.174908152510045,
+    "seed": 100
+  },
+  {
+    "path": "episodes/ep_0101.npz",
+    "radius": 7.717662528052769,
+    "seed": 101
+  },
+  {
+    "path": "episodes/ep_0102.npz",
+    "radius": 3.799955725021518,
+    "seed": 102
+  },
+  {
+    "path": "episodes/ep_0103.npz",
+    "radius": 4.563416163614738,
+    "seed": 103
+  },
+  {
+    "path": "episodes/ep_0104.npz",
+    "radius": 7.192824061847678,
+    "seed": 104
+  },
+  {
+    "path": "episodes/ep_0105.npz",
+    "radius": 6.190976668007723,
+    "seed": 105
+  },
+  {
+    "path": "episodes/ep_0106.npz",
+    "radius": 7.912039277316678,
+    "seed": 106
+  },
+  {
+    "path": "episodes/ep_0107.npz",
+    "radius": 6.242679597001289,
+    "seed": 107
+  },
+  {
+    "path": "episodes/ep_0108.npz",
+    "radius": 7.279969086642975,
+    "seed": 108
+  },
+  {
+    "path": "episodes/ep_0109.npz",
+    "radius": 5.718711244588896,
+    "seed": 109
+  },
+  {
+    "path": "episodes/ep_0110.npz",
+    "radius": 7.652464057551501,
+    "seed": 110
+  },
+  {
+    "path": "episodes/ep_0111.npz",
+    "radius": 3.7683067797616645,
+    "seed": 111
+  },
+  {
+    "path": "episodes/ep_0112.npz",
+    "radius": 3.5822950650382768,
+    "seed": 112
+  },
+  {
+    "path": "episodes/ep_0113.npz",
+    "radius": 3.352890531402792,
+    "seed": 113
+  },
+  {
+    "path": "episodes/ep_0114.npz",
+    "radius": 6.6394413725484265,
+    "seed": 114
+  },
+  {
+    "path": "episodes/ep_0115.npz",
+    "radius": 6.511690120943901,
+    "seed": 115
+  },
+  {
+    "path": "episodes/ep_0116.npz",
+    "radius": 3.8618488293568016,
+    "seed": 116
+  },
+  {
+    "path": "episodes/ep_0117.npz",
+    "radius": 7.375058800369301,
+    "seed": 117
+  },
+  {
+    "path": "episodes/ep_0118.npz",
+    "radius": 7.653448223125844,
+    "seed": 118
+  },
+  {
+    "path": "episodes/ep_0119.npz",
+    "radius": 7.781201996873049,
+    "seed": 119
+  },
+  {
+    "path": "episodes/ep_0120.npz",
+    "radius": 7.268707796377922,
+    "seed": 120
+  },
+  {
+    "path": "episodes/ep_0121.npz",
+    "radius": 6.16407904409764,
+    "seed": 121
+  },
+  {
+    "path": "episodes/ep_0122.npz",
+    "radius": 7.126762884975603,
+    "seed": 122
+  },
+  {
+    "path": "episodes/ep_0123.npz",
+    "radius": 6.411759316240717,
+    "seed": 123
+  },
+  {
+    "path": "episodes/ep_0124.npz",
+    "radius": 6.926265570194589,
+    "seed": 124
+  },
+  {
+    "path": "episodes/ep_0125.npz",
+    "radius": 7.258747418004365,
+    "seed": 125
+  },
+  {
+    "path": "episodes/ep_0126.npz",
+    "radius": 3.0308803798432966,
+    "seed": 126
+  },
+  {
+    "path": "episodes/ep_0127.npz",
+    "radius": 3.3123328386668662,
+    "seed": 127
+  },
+  {
+    "path": "episodes/ep_0128.npz",
+    "radius": 6.295896504667837,
+    "seed": 128
+  },
+  {
+    "path": "episodes/ep_0129.npz",
+    "radius": 4.921581859414916,
+    "seed": 129
+  },
+  {
+    "path": "episodes/ep_0130.npz",
+    "radius": 5.266401981149185,
+    "seed": 130
+  },
+  {
+    "path": "episodes/ep_0131.npz",
+    "radius": 6.232317651232668,
+    "seed": 131
+  },
+  {
+    "path": "episodes/ep_0132.npz",
+    "radius": 3.713006622222694,
+    "seed": 132
+  },
+  {
+    "path": "episodes/ep_0133.npz",
+    "radius": 7.8757563409432825,
+    "seed": 133
+  },
+  {
+    "path": "episodes/ep_0134.npz",
+    "radius": 7.84236241991519,
+    "seed": 134
+  },
+  {
+    "path": "episodes/ep_0135.npz",
+    "radius": 5.741162032444352,
+    "seed": 135
+  },
+  {
+    "path": "episodes/ep_0136.npz",
+    "radius": 3.6372101045996654,
+    "seed": 136
+  },
+  {
+    "path": "episodes/ep_0137.npz",
+    "radius": 7.2909102578311415,
+    "seed": 137
+  },
+  {
+    "path": "episodes/ep_0138.npz",
+    "radius": 5.865600921963605,
+    "seed": 138
+  },
+  {
+    "path": "episodes/ep_0139.npz",
+    "radius": 5.083812510179314,
+    "seed": 139
+  },
+  {
+    "path": "episodes/ep_0140.npz",
+    "radius": 6.338100249677867,
+    "seed": 140
+  },
+  {
+    "path": "episodes/ep_0141.npz",
+    "radius": 6.681482536940441,
+    "seed": 141
+  },
+  {
+    "path": "episodes/ep_0142.npz",
+    "radius": 3.111450328277119,
+    "seed": 142
+  },
+  {
+    "path": "episodes/ep_0143.npz",
+    "radius": 5.066600798773586,
+    "seed": 143
+  },
+  {
+    "path": "episodes/ep_0144.npz",
+    "radius": 6.96380919999619,
+    "seed": 144
+  },
+  {
+    "path": "episodes/ep_0145.npz",
+    "radius": 6.003152782940639,
+    "seed": 145
+  },
+  {
+    "path": "episodes/ep_0146.npz",
+    "radius": 7.002520213689441,
+    "seed": 146
+  },
+  {
+    "path": "episodes/ep_0147.npz",
+    "radius": 7.947433406553637,
+    "seed": 147
+  },
+  {
+    "path": "episodes/ep_0148.npz",
+    "radius": 6.187246237760141,
+    "seed": 148
+  },
+  {
+    "path": "episodes/ep_0149.npz",
+    "radius": 3.410128499275166,
+    "seed": 149
+  },
+  {
+    "path": "episodes/ep_0150.npz",
+    "radius": 3.024110220283055,
+    "seed": 150
+  },
+  {
+    "path": "episodes/ep_0151.npz",
+    "radius": 5.4589692122856475,
+    "seed": 151
+  },
+  {
+    "path": "episodes/ep_0152.npz",
+    "radius": 4.092663508241042,
+    "seed": 152
+  },
+  {
+    "path": "episodes/ep_0153.npz",
+    "radius": 7.675893874021589,
+    "seed": 153
+  },
+  {
+    "path": "episodes/ep_0154.npz",
+    "radius": 5.919233274067796,
+    "seed": 154
+  },
+  {
+    "path": "episodes/ep_0155.npz",
+    "radius": 4.557399139408256,
+    "seed": 155
+  },
+  {
+    "path": "episodes/ep_0156.npz",
+    "radius": 3.693600521162054,
+    "seed": 156
+  },
+  {
+    "path": "episodes/ep_0157.npz",
+    "radius": 4.315458582292678,
+    "seed": 157
+  },
+  {
+    "path": "episodes/ep_0158.npz",
+    "radius": 7.845657337478604,
+    "seed": 158
+  },
+  {
+    "path": "episodes/ep_0159.npz",
+    "radius": 7.04970540534539,
+    "seed": 159
+  },
+  {
+    "path": "episodes/ep_0160.npz",
+    "radius": 5.772999603838553,
+    "seed": 160
+  },
+  {
+    "path": "episodes/ep_0161.npz",
+    "radius": 5.343048030730964,
+    "seed": 161
+  },
+  {
+    "path": "episodes/ep_0162.npz",
+    "radius": 3.358589038406599,
+    "seed": 162
+  },
+  {
+    "path": "episodes/ep_0163.npz",
+    "radius": 7.033205565585786,
+    "seed": 163
+  },
+  {
+    "path": "episodes/ep_0164.npz",
+    "radius": 3.3652013972865538,
+    "seed": 164
+  },
+  {
+    "path": "episodes/ep_0165.npz",
+    "radius": 5.313408524012818,
+    "seed": 165
+  },
+  {
+    "path": "episodes/ep_0166.npz",
+    "radius": 6.581206342119826,
+    "seed": 166
+  },
+  {
+    "path": "episodes/ep_0167.npz",
+    "radius": 3.5782716078300076,
+    "seed": 167
+  },
+  {
+    "path": "episodes/ep_0168.npz",
+    "radius": 4.351122893844119,
+    "seed": 168
+  },
+  {
+    "path": "episodes/ep_0169.npz",
+    "radius": 5.3825011086929395,
+    "seed": 169
+  },
+  {
+    "path": "episodes/ep_0170.npz",
+    "radius": 6.937092510514028,
+    "seed": 170
+  },
+  {
+    "path": "episodes/ep_0171.npz",
+    "radius": 3.512471669120129,
+    "seed": 171
+  },
+  {
+    "path": "episodes/ep_0172.npz",
+    "radius": 3.8511469191106293,
+    "seed": 172
+  },
+  {
+    "path": "episodes/ep_0173.npz",
+    "radius": 3.341532050902713,
+    "seed": 173
+  },
+  {
+    "path": "episodes/ep_0174.npz",
+    "radius": 7.603755874971751,
+    "seed": 174
+  },
+  {
+    "path": "episodes/ep_0175.npz",
+    "radius": 5.816400049195829,
+    "seed": 175
+  },
+  {
+    "path": "episodes/ep_0176.npz",
+    "radius": 7.543982855070325,
+    "seed": 176
+  },
+  {
+    "path": "episodes/ep_0177.npz",
+    "radius": 5.429989745945017,
+    "seed": 177
+  },
+  {
+    "path": "episodes/ep_0178.npz",
+    "radius": 6.8041378459446715,
+    "seed": 178
+  },
+  {
+    "path": "episodes/ep_0179.npz",
+    "radius": 7.5903476432225965,
+    "seed": 179
+  },
+  {
+    "path": "episodes/ep_0180.npz",
+    "radius": 5.880281758540864,
+    "seed": 180
+  },
+  {
+    "path": "episodes/ep_0181.npz",
+    "radius": 6.931146324258997,
+    "seed": 181
+  },
+  {
+    "path": "episodes/ep_0182.npz",
+    "radius": 3.8298864015208056,
+    "seed": 182
+  },
+  {
+    "path": "episodes/ep_0183.npz",
+    "radius": 7.757232662487938,
+    "seed": 183
+  },
+  {
+    "path": "episodes/ep_0184.npz",
+    "radius": 3.088908296731857,
+    "seed": 184
+  },
+  {
+    "path": "episodes/ep_0185.npz",
+    "radius": 4.097890491694692,
+    "seed": 185
+  },
+  {
+    "path": "episodes/ep_0186.npz",
+    "radius": 5.73627216463114,
+    "seed": 186
+  },
+  {
+    "path": "episodes/ep_0187.npz",
+    "radius": 4.271029827852681,
+    "seed": 187
+  },
+  {
+    "path": "episodes/ep_0188.npz",
+    "radius": 3.480554876182353,
+    "seed": 188
+  },
+  {
+    "path": "episodes/ep_0189.npz",
+    "radius": 5.434316506142695,
+    "seed": 189
+  },
+  {
+    "path": "episodes/ep_0190.npz",
+    "radius": 5.658220571816644,
+    "seed": 190
+  },
+  {
+    "path": "episodes/ep_0191.npz",
+    "radius": 7.862956238335356,
+    "seed": 191
+  },
+  {
+    "path": "episodes/ep_0192.npz",
+    "radius": 6.295218354119607,
+    "seed": 192
+  },
+  {
+    "path": "episodes/ep_0193.npz",
+    "radius": 5.530049475180528,
+    "seed": 193
+  },
+  {
+    "path": "episodes/ep_0194.npz",
+    "radius": 7.3236465704836915,
+    "seed": 194
+  },
+  {
+    "path": "episodes/ep_0195.npz",
+    "radius": 3.171751942560042,
+    "seed": 195
+  },
+  {
+    "path": "episodes/ep_0196.npz",
+    "radius": 7.4102104232372525,
+    "seed": 196
+  },
+  {
+    "path": "episodes/ep_0197.npz",
+    "radius": 7.672830691485858,
+    "seed": 197
+  },
+  {
+    "path": "episodes/ep_0198.npz",
+    "radius": 6.992929684930616,
+    "seed": 198
+  },
+  {
+    "path": "episodes/ep_0199.npz",
+    "radius": 6.369693124463425,
+    "seed": 199
+  },
+  {
+    "path": "episodes/ep_0200.npz",
+    "radius": 6.23417071839569,
+    "seed": 200
+  },
+  {
+    "path": "episodes/ep_0201.npz",
+    "radius": 7.953668724395759,
+    "seed": 201
+  },
+  {
+    "path": "episodes/ep_0202.npz",
+    "radius": 4.731437499618711,
+    "seed": 202
+  },
+  {
+    "path": "episodes/ep_0203.npz",
+    "radius": 6.90471524712383,
+    "seed": 203
+  },
+  {
+    "path": "episodes/ep_0204.npz",
+    "radius": 5.682175463695914,
+    "seed": 204
+  },
+  {
+    "path": "episodes/ep_0205.npz",
+    "radius": 7.5409280754848185,
+    "seed": 205
+  },
+  {
+    "path": "episodes/ep_0206.npz",
+    "radius": 7.310047045042303,
+    "seed": 206
+  },
+  {
+    "path": "episodes/ep_0207.npz",
+    "radius": 4.3812830020983,
+    "seed": 207
+  },
+  {
+    "path": "episodes/ep_0208.npz",
+    "radius": 7.77111083209861,
+    "seed": 208
+  },
+  {
+    "path": "episodes/ep_0209.npz",
+    "radius": 4.4252249916334145,
+    "seed": 209
+  },
+  {
+    "path": "episodes/ep_0210.npz",
+    "radius": 6.609395273110515,
+    "seed": 210
+  },
+  {
+    "path": "episodes/ep_0211.npz",
+    "radius": 5.233554275192936,
+    "seed": 211
+  },
+  {
+    "path": "episodes/ep_0212.npz",
+    "radius": 5.862779537687823,
+    "seed": 212
+  },
+  {
+    "path": "episodes/ep_0213.npz",
+    "radius": 6.254303393389711,
+    "seed": 213
+  },
+  {
+    "path": "episodes/ep_0214.npz",
+    "radius": 3.4725278692807993,
+    "seed": 214
+  },
+  {
+    "path": "episodes/ep_0215.npz",
+    "radius": 7.554793324632131,
+    "seed": 215
+  },
+  {
+    "path": "episodes/ep_0216.npz",
+    "radius": 7.598686031508202,
+    "seed": 216
+  },
+  {
+    "path": "episodes/ep_0217.npz",
+    "radius": 7.292891771461919,
+    "seed": 217
+  },
+  {
+    "path": "episodes/ep_0218.npz",
+    "radius": 7.902469597971101,
+    "seed": 218
+  },
+  {
+    "path": "episodes/ep_0219.npz",
+    "radius": 6.440465856284192,
+    "seed": 219
+  },
+  {
+    "path": "episodes/ep_0220.npz",
+    "radius": 7.453211002738097,
+    "seed": 220
+  },
+  {
+    "path": "episodes/ep_0221.npz",
+    "radius": 5.274696656221129,
+    "seed": 221
+  },
+  {
+    "path": "episodes/ep_0222.npz",
+    "radius": 4.886044799359859,
+    "seed": 222
+  },
+  {
+    "path": "episodes/ep_0223.npz",
+    "radius": 7.433687392553879,
+    "seed": 223
+  },
+  {
+    "path": "episodes/ep_0224.npz",
+    "radius": 5.704290961646008,
+    "seed": 224
+  },
+  {
+    "path": "episodes/ep_0225.npz",
+    "radius": 6.012643056992911,
+    "seed": 225
+  },
+  {
+    "path": "episodes/ep_0226.npz",
+    "radius": 6.360133847329969,
+    "seed": 226
+  },
+  {
+    "path": "episodes/ep_0227.npz",
+    "radius": 5.484309154571465,
+    "seed": 227
+  },
+  {
+    "path": "episodes/ep_0228.npz",
+    "radius": 6.307046729208626,
+    "seed": 228
+  },
+  {
+    "path": "episodes/ep_0229.npz",
+    "radius": 7.406497736388077,
+    "seed": 229
+  },
+  {
+    "path": "episodes/ep_0230.npz",
+    "radius": 3.0412997610349213,
+    "seed": 230
+  },
+  {
+    "path": "episodes/ep_0231.npz",
+    "radius": 5.7388398933755385,
+    "seed": 231
+  },
+  {
+    "path": "episodes/ep_0232.npz",
+    "radius": 5.89777769084273,
+    "seed": 232
+  },
+  {
+    "path": "episodes/ep_0233.npz",
+    "radius": 3.4725694622602017,
+    "seed": 233
+  },
+  {
+    "path": "episodes/ep_0234.npz",
+    "radius": 7.002101731549487,
+    "seed": 234
+  },
+  {
+    "path": "episodes/ep_0235.npz",
+    "radius": 5.494612225185601,
+    "seed": 235
+  },
+  {
+    "path": "episodes/ep_0236.npz",
+    "radius": 7.138163928333969,
+    "seed": 236
+  },
+  {
+    "path": "episodes/ep_0237.npz",
+    "radius": 5.388269521510457,
+    "seed": 237
+  },
+  {
+    "path": "episodes/ep_0238.npz",
+    "radius": 5.059460061894319,
+    "seed": 238
+  },
+  {
+    "path": "episodes/ep_0239.npz",
+    "radius": 3.075831763481782,
+    "seed": 239
+  },
+  {
+    "path": "episodes/ep_0240.npz",
+    "radius": 6.295571009964493,
+    "seed": 240
+  },
+  {
+    "path": "episodes/ep_0241.npz",
+    "radius": 4.102735308754424,
+    "seed": 241
+  },
+  {
+    "path": "episodes/ep_0242.npz",
+    "radius": 3.4320524047810403,
+    "seed": 242
+  },
+  {
+    "path": "episodes/ep_0243.npz",
+    "radius": 5.352405487211455,
+    "seed": 243
+  },
+  {
+    "path": "episodes/ep_0244.npz",
+    "radius": 3.4607791523244433,
+    "seed": 244
+  },
+  {
+    "path": "episodes/ep_0245.npz",
+    "radius": 5.037661088382287,
+    "seed": 245
+  },
+  {
+    "path": "episodes/ep_0246.npz",
+    "radius": 4.262052337070334,
+    "seed": 246
+  },
+  {
+    "path": "episodes/ep_0247.npz",
+    "radius": 6.793064984856159,
+    "seed": 247
+  },
+  {
+    "path": "episodes/ep_0248.npz",
+    "radius": 6.268648061814249,
+    "seed": 248
+  },
+  {
+    "path": "episodes/ep_0249.npz",
+    "radius": 7.74558287964586,
+    "seed": 249
+  },
+  {
+    "path": "episodes/ep_0250.npz",
+    "radius": 4.01978714973401,
+    "seed": 250
+  },
+  {
+    "path": "episodes/ep_0251.npz",
+    "radius": 5.7551780060130655,
+    "seed": 251
+  },
+  {
+    "path": "episodes/ep_0252.npz",
+    "radius": 5.813239105564397,
+    "seed": 252
+  },
+  {
+    "path": "episodes/ep_0253.npz",
+    "radius": 4.275375673530927,
+    "seed": 253
+  },
+  {
+    "path": "episodes/ep_0254.npz",
+    "radius": 5.222361632495608,
+    "seed": 254
+  },
+  {
+    "path": "episodes/ep_0255.npz",
+    "radius": 7.042803730322127,
+    "seed": 255
+  },
+  {
+    "path": "episodes/ep_0256.npz",
+    "radius": 6.579912055799568,
+    "seed": 256
+  },
+  {
+    "path": "episodes/ep_0257.npz",
+    "radius": 6.734422124404971,
+    "seed": 257
+  },
+  {
+    "path": "episodes/ep_0258.npz",
+    "radius": 4.756331022484034,
+    "seed": 258
+  },
+  {
+    "path": "episodes/ep_0259.npz",
+    "radius": 5.9986527424803295,
+    "seed": 259
+  },
+  {
+    "path": "episodes/ep_0260.npz",
+    "radius": 7.657718158497776,
+    "seed": 260
+  },
+  {
+    "path": "episodes/ep_0261.npz",
+    "radius": 4.71756693217875,
+    "seed": 261
+  },
+  {
+    "path": "episodes/ep_0262.npz",
+    "radius": 7.202787131939984,
+    "seed": 262
+  },
+  {
+    "path": "episodes/ep_0263.npz",
+    "radius": 4.686384546151851,
+    "seed": 263
+  },
+  {
+    "path": "episodes/ep_0264.npz",
+    "radius": 4.895768809035692,
+    "seed": 264
+  },
+  {
+    "path": "episodes/ep_0265.npz",
+    "radius": 4.577769746944025,
+    "seed": 265
+  },
+  {
+    "path": "episodes/ep_0266.npz",
+    "radius": 4.027044550748284,
+    "seed": 266
+  },
+  {
+    "path": "episodes/ep_0267.npz",
+    "radius": 5.890791036854486,
+    "seed": 267
+  },
+  {
+    "path": "episodes/ep_0268.npz",
+    "radius": 7.813459073975561,
+    "seed": 268
+  },
+  {
+    "path": "episodes/ep_0269.npz",
+    "radius": 4.553314764667025,
+    "seed": 269
+  },
+  {
+    "path": "episodes/ep_0270.npz",
+    "radius": 4.943018098336193,
+    "seed": 270
+  },
+  {
+    "path": "episodes/ep_0271.npz",
+    "radius": 6.909897530667527,
+    "seed": 271
+  },
+  {
+    "path": "episodes/ep_0272.npz",
+    "radius": 5.170693631173419,
+    "seed": 272
+  },
+  {
+    "path": "episodes/ep_0273.npz",
+    "radius": 3.960916447381165,
+    "seed": 273
+  },
+  {
+    "path": "episodes/ep_0274.npz",
+    "radius": 7.880498891608683,
+    "seed": 274
+  },
+  {
+    "path": "episodes/ep_0275.npz",
+    "radius": 7.624596723845924,
+    "seed": 275
+  },
+  {
+    "path": "episodes/ep_0276.npz",
+    "radius": 7.110391875312442,
+    "seed": 276
+  },
+  {
+    "path": "episodes/ep_0277.npz",
+    "radius": 5.5668394822973255,
+    "seed": 277
+  },
+  {
+    "path": "episodes/ep_0278.npz",
+    "radius": 6.495654569153539,
+    "seed": 278
+  },
+  {
+    "path": "episodes/ep_0279.npz",
+    "radius": 3.2525528794787006,
+    "seed": 279
+  },
+  {
+    "path": "episodes/ep_0280.npz",
+    "radius": 7.987789951717101,
+    "seed": 280
+  },
+  {
+    "path": "episodes/ep_0281.npz",
+    "radius": 5.221026475899611,
+    "seed": 281
+  },
+  {
+    "path": "episodes/ep_0282.npz",
+    "radius": 6.122645291466215,
+    "seed": 282
+  },
+  {
+    "path": "episodes/ep_0283.npz",
+    "radius": 6.728226905382058,
+    "seed": 283
+  },
+  {
+    "path": "episodes/ep_0284.npz",
+    "radius": 6.150746674793423,
+    "seed": 284
+  },
+  {
+    "path": "episodes/ep_0285.npz",
+    "radius": 3.2088755389428334,
+    "seed": 285
+  },
+  {
+    "path": "episodes/ep_0286.npz",
+    "radius": 5.137309860326292,
+    "seed": 286
+  },
+  {
+    "path": "episodes/ep_0287.npz",
+    "radius": 7.256494614442101,
+    "seed": 287
+  },
+  {
+    "path": "episodes/ep_0288.npz",
+    "radius": 6.666987533478068,
+    "seed": 288
+  },
+  {
+    "path": "episodes/ep_0289.npz",
+    "radius": 7.21412638116795,
+    "seed": 289
+  },
+  {
+    "path": "episodes/ep_0290.npz",
+    "radius": 4.963810164326885,
+    "seed": 290
+  },
+  {
+    "path": "episodes/ep_0291.npz",
+    "radius": 3.9654617636125113,
+    "seed": 291
+  },
+  {
+    "path": "episodes/ep_0292.npz",
+    "radius": 6.659612593466425,
+    "seed": 292
+  },
+  {
+    "path": "episodes/ep_0293.npz",
+    "radius": 6.461287586367939,
+    "seed": 293
+  },
+  {
+    "path": "episodes/ep_0294.npz",
+    "radius": 6.233682313136793,
+    "seed": 294
+  },
+  {
+    "path": "episodes/ep_0295.npz",
+    "radius": 3.7064170520483897,
+    "seed": 295
+  },
+  {
+    "path": "episodes/ep_0296.npz",
+    "radius": 6.322204406241459,
+    "seed": 296
+  },
+  {
+    "path": "episodes/ep_0297.npz",
+    "radius": 3.372750550967506,
+    "seed": 297
+  },
+  {
+    "path": "episodes/ep_0298.npz",
+    "radius": 5.586871755173924,
+    "seed": 298
+  },
+  {
+    "path": "episodes/ep_0299.npz",
+    "radius": 6.559943261570584,
+    "seed": 299
+  }
+]
