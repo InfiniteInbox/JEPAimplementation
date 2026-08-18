@@ -1,0 +1,4002 @@
+[
+  {
+    "path": "episodes/ep_0000.npz",
+    "radius": 6.1848084366072715,
+    "bounce": 0.8033178878835899,
+    "friction": 0.6835972487871987,
+    "hold": 5,
+    "seed": 0
+  },
+  {
+    "path": "episodes/ep_0001.npz",
+    "radius": 5.559108123501284,
+    "bounce": 0.9138512969102208,
+    "friction": 0.42735930909532904,
+    "hold": 7,
+    "seed": 1
+  },
+  {
+    "path": "episodes/ep_0002.npz",
+    "radius": 4.308060671246582,
+    "bounce": 0.5939505366833018,
+    "friction": 0.14411730186645455,
+    "hold": 6,
+    "seed": 2
+  },
+  {
+    "path": "episodes/ep_0003.npz",
+    "radius": 3.428245835718122,
+    "bounce": 0.739525649070417,
+    "friction": 0.22779113170966286,
+    "hold": 3,
+    "seed": 3
+  },
+  {
+    "path": "episodes/ep_0004.npz",
+    "radius": 7.715280527861838,
+    "bounce": 0.9009506034929036,
+    "friction": 0.23962225291522277,
+    "hold": 3,
+    "seed": 4
+  },
+  {
+    "path": "episodes/ep_0005.npz",
+    "radius": 7.025014618726901,
+    "bounce": 0.7042366027099993,
+    "friction": 0.13622015512195615,
+    "hold": 3,
+    "seed": 5
+  },
+  {
+    "path": "episodes/ep_0006.npz",
+    "radius": 5.690821757359716,
+    "bounce": 0.8371619652522468,
+    "friction": 0.3639707643083667,
+    "hold": 3,
+    "seed": 6
+  },
+  {
+    "path": "episodes/ep_0007.npz",
+    "radius": 6.125477333023335,
+    "bounce": 0.5026326522827873,
+    "friction": 0.756982734706213,
+    "hold": 3,
+    "seed": 7
+  },
+  {
+    "path": "episodes/ep_0008.npz",
+    "radius": 4.634861383027804,
+    "bounce": 0.7189409365613995,
+    "friction": 0.3981991224714825,
+    "hold": 2,
+    "seed": 8
+  },
+  {
+    "path": "episodes/ep_0009.npz",
+    "radius": 7.351246019850423,
+    "bounce": 0.9301968245914423,
+    "friction": 0.83459010323901,
+    "hold": 7,
+    "seed": 9
+  },
+  {
+    "path": "episodes/ep_0010.npz",
+    "radius": 7.780008548144877,
+    "bounce": 0.8445182398905655,
+    "friction": 0.7733981794498231,
+    "hold": 2,
+    "seed": 10
+  },
+  {
+    "path": "episodes/ep_0011.npz",
+    "radius": 3.642851013845998,
+    "bounce": 0.5352102880770984,
+    "friction": 0.2038191595194384,
+    "hold": 4,
+    "seed": 11
+  },
+  {
+    "path": "episodes/ep_0012.npz",
+    "radius": 4.254122290542231,
+    "bounce": 0.8352228713863923,
+    "friction": 0.192063505698758,
+    "hold": 4,
+    "seed": 12
+  },
+  {
+    "path": "episodes/ep_0013.npz",
+    "radius": 7.323987935082933,
+    "bounce": 0.8068958455235509,
+    "friction": 0.10210460290103979,
+    "hold": 6,
+    "seed": 13
+  },
+  {
+    "path": "episodes/ep_0014.npz",
+    "radius": 7.154916594445558,
+    "bounce": 0.8811567112655967,
+    "friction": 0.6730515061120323,
+    "hold": 3,
+    "seed": 14
+  },
+  {
+    "path": "episodes/ep_0015.npz",
+    "radius": 6.463716839825762,
+    "bounce": 0.8593856884377356,
+    "friction": 0.37628520326067183,
+    "hold": 7,
+    "seed": 15
+  },
+  {
+    "path": "episodes/ep_0016.npz",
+    "radius": 5.834584194396825,
+    "bounce": 0.9373161889727688,
+    "friction": 0.7832396252215538,
+    "hold": 4,
+    "seed": 16
+  },
+  {
+    "path": "episodes/ep_0017.npz",
+    "radius": 7.225373963989508,
+    "bounce": 0.7140822495468042,
+    "friction": 0.5890744867991845,
+    "hold": 4,
+    "seed": 17
+  },
+  {
+    "path": "episodes/ep_0018.npz",
+    "radius": 4.996528846087864,
+    "bounce": 0.8221604810756232,
+    "friction": 0.5614971708020873,
+    "hold": 6,
+    "seed": 18
+  },
+  {
+    "path": "episodes/ep_0019.npz",
+    "radius": 5.101893978646304,
+    "bounce": 0.8904827908840915,
+    "friction": 0.5309598688636744,
+    "hold": 2,
+    "seed": 19
+  },
+  {
+    "path": "episodes/ep_0020.npz",
+    "radius": 4.4003798131507965,
+    "bounce": 0.5494833379092658,
+    "friction": 0.8890306911733975,
+    "hold": 4,
+    "seed": 20
+  },
+  {
+    "path": "episodes/ep_0021.npz",
+    "radius": 6.905587944087355,
+    "bounce": 0.711702586179878,
+    "friction": 0.18992246667787382,
+    "hold": 5,
+    "seed": 21
+  },
+  {
+    "path": "episodes/ep_0022.npz",
+    "radius": 4.831734577160381,
+    "bounce": 0.9257840349255654,
+    "friction": 0.7695690585896356,
+    "hold": 2,
+    "seed": 22
+  },
+  {
+    "path": "episodes/ep_0023.npz",
+    "radius": 6.469665403286822,
+    "bounce": 0.6008895672202031,
+    "friction": 0.27441490966858884,
+    "hold": 5,
+    "seed": 23
+  },
+  {
+    "path": "episodes/ep_0024.npz",
+    "radius": 4.651344183346577,
+    "bounce": 0.9370582656203705,
+    "friction": 0.16914436879277844,
+    "hold": 5,
+    "seed": 24
+  },
+  {
+    "path": "episodes/ep_0025.npz",
+    "radius": 3.803606166160039,
+    "bounce": 0.9954310894546035,
+    "friction": 0.729547425461124,
+    "hold": 5,
+    "seed": 25
+  },
+  {
+    "path": "episodes/ep_0026.npz",
+    "radius": 5.457994588024523,
+    "bounce": 0.8171544021393291,
+    "friction": 0.23535993260836216,
+    "hold": 4,
+    "seed": 26
+  },
+  {
+    "path": "episodes/ep_0027.npz",
+    "radius": 6.488681082383927,
+    "bounce": 0.5050095619801585,
+    "friction": 0.25914657374918015,
+    "hold": 3,
+    "seed": 27
+  },
+  {
+    "path": "episodes/ep_0028.npz",
+    "radius": 7.259169679910789,
+    "bounce": 0.938001888728613,
+    "friction": 0.8607036082589753,
+    "hold": 7,
+    "seed": 28
+  },
+  {
+    "path": "episodes/ep_0029.npz",
+    "radius": 3.2502348517703448,
+    "bounce": 0.6969139804618292,
+    "friction": 0.4041828815012637,
+    "hold": 7,
+    "seed": 29
+  },
+  {
+    "path": "episodes/ep_0030.npz",
+    "radius": 4.178994024062664,
+    "bounce": 0.663227428101292,
+    "friction": 0.18766429736769893,
+    "hold": 3,
+    "seed": 30
+  },
+  {
+    "path": "episodes/ep_0031.npz",
+    "radius": 7.515859054574302,
+    "bounce": 0.5256054569250781,
+    "friction": 0.24122411138630506,
+    "hold": 6,
+    "seed": 31
+  },
+  {
+    "path": "episodes/ep_0032.npz",
+    "radius": 3.8012141518738405,
+    "bounce": 0.9834151230508943,
+    "friction": 0.6370387378528427,
+    "hold": 4,
+    "seed": 32
+  },
+  {
+    "path": "episodes/ep_0033.npz",
+    "radius": 5.2182111848133355,
+    "bounce": 0.8781868085413284,
+    "friction": 0.5344470895555464,
+    "hold": 3,
+    "seed": 33
+  },
+  {
+    "path": "episodes/ep_0034.npz",
+    "radius": 3.0201412174652176,
+    "bounce": 0.9403612826844869,
+    "friction": 0.8197775971814799,
+    "hold": 3,
+    "seed": 34
+  },
+  {
+    "path": "episodes/ep_0035.npz",
+    "radius": 4.689747794418623,
+    "bounce": 0.7266439682969796,
+    "friction": 0.8266607739642635,
+    "hold": 5,
+    "seed": 35
+  },
+  {
+    "path": "episodes/ep_0036.npz",
+    "radius": 3.9031654561208473,
+    "bounce": 0.7677132765411525,
+    "friction": 0.8002835654562326,
+    "hold": 4,
+    "seed": 36
+  },
+  {
+    "path": "episodes/ep_0037.npz",
+    "radius": 6.520765158067848,
+    "bounce": 0.9903072667012367,
+    "friction": 0.15154567737476166,
+    "hold": 6,
+    "seed": 37
+  },
+  {
+    "path": "episodes/ep_0038.npz",
+    "radius": 5.428805224189338,
+    "bounce": 0.9175451615069538,
+    "friction": 0.4972776384465868,
+    "hold": 2,
+    "seed": 38
+  },
+  {
+    "path": "episodes/ep_0039.npz",
+    "radius": 5.508559785757041,
+    "bounce": 0.575536991349721,
+    "friction": 0.2833310933594129,
+    "hold": 4,
+    "seed": 39
+  },
+  {
+    "path": "episodes/ep_0040.npz",
+    "radius": 6.649492476323588,
+    "bounce": 0.7378415887604873,
+    "friction": 0.3707125527888987,
+    "hold": 2,
+    "seed": 40
+  },
+  {
+    "path": "episodes/ep_0041.npz",
+    "radius": 7.7707555148100225,
+    "bounce": 0.7557046173577298,
+    "friction": 0.5819999267973143,
+    "hold": 3,
+    "seed": 41
+  },
+  {
+    "path": "episodes/ep_0042.npz",
+    "radius": 6.869780242779816,
+    "bounce": 0.8805698509951765,
+    "friction": 0.7288514442215631,
+    "hold": 5,
+    "seed": 42
+  },
+  {
+    "path": "episodes/ep_0043.npz",
+    "radius": 6.261496313504553,
+    "bounce": 0.8758961359093078,
+    "friction": 0.31095375798269975,
+    "hold": 7,
+    "seed": 43
+  },
+  {
+    "path": "episodes/ep_0044.npz",
+    "radius": 3.612827548369358,
+    "bounce": 0.5815226355355327,
+    "friction": 0.37036955917273395,
+    "hold": 7,
+    "seed": 44
+  },
+  {
+    "path": "episodes/ep_0045.npz",
+    "radius": 5.865653284737528,
+    "bounce": 0.8980566522300224,
+    "friction": 0.5758040034726942,
+    "hold": 4,
+    "seed": 45
+  },
+  {
+    "path": "episodes/ep_0046.npz",
+    "radius": 7.52802138345156,
+    "bounce": 0.814614883363981,
+    "friction": 0.7204573971794095,
+    "hold": 6,
+    "seed": 46
+  },
+  {
+    "path": "episodes/ep_0047.npz",
+    "radius": 6.709009973212803,
+    "bounce": 0.6001657756092131,
+    "friction": 0.7862073513544755,
+    "hold": 4,
+    "seed": 47
+  },
+  {
+    "path": "episodes/ep_0048.npz",
+    "radius": 4.938499361427972,
+    "bounce": 0.7949214993982399,
+    "friction": 0.5223786605776483,
+    "hold": 7,
+    "seed": 48
+  },
+  {
+    "path": "episodes/ep_0049.npz",
+    "radius": 4.814270961380681,
+    "bounce": 0.8881678013688907,
+    "friction": 0.8966035884443134,
+    "hold": 5,
+    "seed": 49
+  },
+  {
+    "path": "episodes/ep_0050.npz",
+    "radius": 6.937113459433118,
+    "bounce": 0.5325130355394444,
+    "friction": 0.544462085321489,
+    "hold": 3,
+    "seed": 50
+  },
+  {
+    "path": "episodes/ep_0051.npz",
+    "radius": 7.712205981352084,
+    "bounce": 0.90286325190555,
+    "friction": 0.6861265172037483,
+    "hold": 7,
+    "seed": 51
+  },
+  {
+    "path": "episodes/ep_0052.npz",
+    "radius": 6.078814774012164,
+    "bounce": 0.6990298482006754,
+    "friction": 0.11266992336313618,
+    "hold": 3,
+    "seed": 52
+  },
+  {
+    "path": "episodes/ep_0053.npz",
+    "radius": 3.0556349728213315,
+    "bounce": 0.9096269634031013,
+    "friction": 0.6532535279528593,
+    "hold": 2,
+    "seed": 53
+  },
+  {
+    "path": "episodes/ep_0054.npz",
+    "radius": 4.112257723359475,
+    "bounce": 0.8338433158703428,
+    "friction": 0.20285743985145235,
+    "hold": 5,
+    "seed": 54
+  },
+  {
+    "path": "episodes/ep_0055.npz",
+    "radius": 7.161260917274753,
+    "bounce": 0.8521162130066504,
+    "friction": 0.8576687915469355,
+    "hold": 4,
+    "seed": 55
+  },
+  {
+    "path": "episodes/ep_0056.npz",
+    "radius": 6.6306302498177,
+    "bounce": 0.8033155852987997,
+    "friction": 0.3874172043356179,
+    "hold": 3,
+    "seed": 56
+  },
+  {
+    "path": "episodes/ep_0057.npz",
+    "radius": 6.4208335157777086,
+    "bounce": 0.7146090688743205,
+    "friction": 0.6810715486001817,
+    "hold": 5,
+    "seed": 57
+  },
+  {
+    "path": "episodes/ep_0058.npz",
+    "radius": 4.545059002831223,
+    "bounce": 0.652666269485745,
+    "friction": 0.21078495017753252,
+    "hold": 7,
+    "seed": 58
+  },
+  {
+    "path": "episodes/ep_0059.npz",
+    "radius": 5.938735793331821,
+    "bounce": 0.5029097900148518,
+    "friction": 0.8781205551437282,
+    "hold": 2,
+    "seed": 59
+  },
+  {
+    "path": "episodes/ep_0060.npz",
+    "radius": 4.621419063506382,
+    "bounce": 0.9840922996202488,
+    "friction": 0.8932287288635415,
+    "hold": 7,
+    "seed": 60
+  },
+  {
+    "path": "episodes/ep_0061.npz",
+    "radius": 4.871871414388206,
+    "bounce": 0.9990464280949458,
+    "friction": 0.8581862411075795,
+    "hold": 6,
+    "seed": 61
+  },
+  {
+    "path": "episodes/ep_0062.npz",
+    "radius": 6.0466008342891575,
+    "bounce": 0.7568174944281338,
+    "friction": 0.799159910143369,
+    "hold": 5,
+    "seed": 62
+  },
+  {
+    "path": "episodes/ep_0063.npz",
+    "radius": 5.800396859477838,
+    "bounce": 0.683809899412053,
+    "friction": 0.3302502677086815,
+    "hold": 5,
+    "seed": 63
+  },
+  {
+    "path": "episodes/ep_0064.npz",
+    "radius": 7.717467263702018,
+    "bounce": 0.9926826250120184,
+    "friction": 0.6003051613927335,
+    "hold": 7,
+    "seed": 64
+  },
+  {
+    "path": "episodes/ep_0065.npz",
+    "radius": 3.236957427317355,
+    "bounce": 0.6394254219653164,
+    "friction": 0.1344939843978552,
+    "hold": 4,
+    "seed": 65
+  },
+  {
+    "path": "episodes/ep_0066.npz",
+    "radius": 7.618669389679657,
+    "bounce": 0.5514141330053697,
+    "friction": 0.4500199058697011,
+    "hold": 7,
+    "seed": 66
+  },
+  {
+    "path": "episodes/ep_0067.npz",
+    "radius": 5.071657499511262,
+    "bounce": 0.6541471343789659,
+    "friction": 0.38424058241859116,
+    "hold": 6,
+    "seed": 67
+  },
+  {
+    "path": "episodes/ep_0068.npz",
+    "radius": 5.421833624232832,
+    "bounce": 0.5651186758347453,
+    "friction": 0.5208374480682795,
+    "hold": 6,
+    "seed": 68
+  },
+  {
+    "path": "episodes/ep_0069.npz",
+    "radius": 5.9018618760783745,
+    "bounce": 0.7723173880577854,
+    "friction": 0.44993261169472876,
+    "hold": 6,
+    "seed": 69
+  },
+  {
+    "path": "episodes/ep_0070.npz",
+    "radius": 4.903674226075714,
+    "bounce": 0.6037761341330494,
+    "friction": 0.1023332857749943,
+    "hold": 5,
+    "seed": 70
+  },
+  {
+    "path": "episodes/ep_0071.npz",
+    "radius": 4.267068387186514,
+    "bounce": 0.7615827205463104,
+    "friction": 0.26112947249432594,
+    "hold": 2,
+    "seed": 71
+  },
+  {
+    "path": "episodes/ep_0072.npz",
+    "radius": 7.189183672369,
+    "bounce": 0.786653918844067,
+    "friction": 0.14151267405815765,
+    "hold": 5,
+    "seed": 72
+  },
+  {
+    "path": "episodes/ep_0073.npz",
+    "radius": 5.463180946440964,
+    "bounce": 0.9273485548537979,
+    "friction": 0.23665967931826862,
+    "hold": 5,
+    "seed": 73
+  },
+  {
+    "path": "episodes/ep_0074.npz",
+    "radius": 7.471891342194536,
+    "bounce": 0.5019863273893548,
+    "friction": 0.6987004132889076,
+    "hold": 5,
+    "seed": 74
+  },
+  {
+    "path": "episodes/ep_0075.npz",
+    "radius": 4.066458407630989,
+    "bounce": 0.9634311847343509,
+    "friction": 0.8578267545953162,
+    "hold": 4,
+    "seed": 75
+  },
+  {
+    "path": "episodes/ep_0076.npz",
+    "radius": 7.031657545787477,
+    "bounce": 0.780865757875143,
+    "friction": 0.8733959181726334,
+    "hold": 2,
+    "seed": 76
+  },
+  {
+    "path": "episodes/ep_0077.npz",
+    "radius": 6.9296615427124655,
+    "bounce": 0.9006503398211803,
+    "friction": 0.17264131199334393,
+    "hold": 4,
+    "seed": 77
+  },
+  {
+    "path": "episodes/ep_0078.npz",
+    "radius": 5.09431543915161,
+    "bounce": 0.6898678364627402,
+    "friction": 0.35931285976036953,
+    "hold": 4,
+    "seed": 78
+  },
+  {
+    "path": "episodes/ep_0079.npz",
+    "radius": 7.598011936884276,
+    "bounce": 0.7388504028960652,
+    "friction": 0.39999678986212994,
+    "hold": 7,
+    "seed": 79
+  },
+  {
+    "path": "episodes/ep_0080.npz",
+    "radius": 6.682456656717269,
+    "bounce": 0.8190669427863289,
+    "friction": 0.7204198524009083,
+    "hold": 4,
+    "seed": 80
+  },
+  {
+    "path": "episodes/ep_0081.npz",
+    "radius": 5.17056645552816,
+    "bounce": 0.7326860575978602,
+    "friction": 0.17789845370119117,
+    "hold": 4,
+    "seed": 81
+  },
+  {
+    "path": "episodes/ep_0082.npz",
+    "radius": 7.9881937619263255,
+    "bounce": 0.6119842733662534,
+    "friction": 0.34427050278464677,
+    "hold": 7,
+    "seed": 82
+  },
+  {
+    "path": "episodes/ep_0083.npz",
+    "radius": 4.582071599255008,
+    "bounce": 0.9439933284938803,
+    "friction": 0.42556643344650213,
+    "hold": 4,
+    "seed": 83
+  },
+  {
+    "path": "episodes/ep_0084.npz",
+    "radius": 6.660491194639578,
+    "bounce": 0.8243978260414601,
+    "friction": 0.3262817900433811,
+    "hold": 3,
+    "seed": 84
+  },
+  {
+    "path": "episodes/ep_0085.npz",
+    "radius": 3.2216149560549967,
+    "bounce": 0.6156442505364704,
+    "friction": 0.6309066488398766,
+    "hold": 5,
+    "seed": 85
+  },
+  {
+    "path": "episodes/ep_0086.npz",
+    "radius": 6.077311591428919,
+    "bounce": 0.9797355108965948,
+    "friction": 0.20530049803644523,
+    "hold": 5,
+    "seed": 86
+  },
+  {
+    "path": "episodes/ep_0087.npz",
+    "radius": 5.8537821520766,
+    "bounce": 0.7695519002939695,
+    "friction": 0.501693193376097,
+    "hold": 2,
+    "seed": 87
+  },
+  {
+    "path": "episodes/ep_0088.npz",
+    "radius": 4.031226548949251,
+    "bounce": 0.5864146506353753,
+    "friction": 0.3515165753115118,
+    "hold": 5,
+    "seed": 88
+  },
+  {
+    "path": "episodes/ep_0089.npz",
+    "radius": 5.878885709050165,
+    "bounce": 0.8891173768987923,
+    "friction": 0.6288517771424302,
+    "hold": 3,
+    "seed": 89
+  },
+  {
+    "path": "episodes/ep_0090.npz",
+    "radius": 4.861663899216236,
+    "bounce": 0.8499224068919037,
+    "friction": 0.7857082653406405,
+    "hold": 5,
+    "seed": 90
+  },
+  {
+    "path": "episodes/ep_0091.npz",
+    "radius": 4.415415288339178,
+    "bounce": 0.6421186484899184,
+    "friction": 0.8144297552910723,
+    "hold": 2,
+    "seed": 91
+  },
+  {
+    "path": "episodes/ep_0092.npz",
+    "radius": 6.004321480925477,
+    "bounce": 0.5175029598469174,
+    "friction": 0.10218836863300869,
+    "hold": 6,
+    "seed": 92
+  },
+  {
+    "path": "episodes/ep_0093.npz",
+    "radius": 7.927451881761275,
+    "bounce": 0.986016689363904,
+    "friction": 0.4523764264200122,
+    "hold": 7,
+    "seed": 93
+  },
+  {
+    "path": "episodes/ep_0094.npz",
+    "radius": 4.198354627756014,
+    "bounce": 0.7821367542166029,
+    "friction": 0.8094504772161034,
+    "hold": 6,
+    "seed": 94
+  },
+  {
+    "path": "episodes/ep_0095.npz",
+    "radius": 5.707282536953965,
+    "bounce": 0.5808828495437679,
+    "friction": 0.7226067922529421,
+    "hold": 3,
+    "seed": 95
+  },
+  {
+    "path": "episodes/ep_0096.npz",
+    "radius": 6.6458451112581365,
+    "bounce": 0.5463466928370697,
+    "friction": 0.8690075986604567,
+    "hold": 3,
+    "seed": 96
+  },
+  {
+    "path": "episodes/ep_0097.npz",
+    "radius": 6.3713670286091695,
+    "bounce": 0.5166596351421042,
+    "friction": 0.13913583641264016,
+    "hold": 5,
+    "seed": 97
+  },
+  {
+    "path": "episodes/ep_0098.npz",
+    "radius": 7.718277705058975,
+    "bounce": 0.639838238991925,
+    "friction": 0.1366495850617513,
+    "hold": 3,
+    "seed": 98
+  },
+  {
+    "path": "episodes/ep_0099.npz",
+    "radius": 5.530153372741973,
+    "bounce": 0.6433933614345659,
+    "friction": 0.5436091625991173,
+    "hold": 3,
+    "seed": 99
+  },
+  {
+    "path": "episodes/ep_0100.npz",
+    "radius": 7.174908152510045,
+    "bounce": 0.8951315822093606,
+    "friction": 0.8282715050363623,
+    "hold": 7,
+    "seed": 100
+  },
+  {
+    "path": "episodes/ep_0101.npz",
+    "radius": 7.717662528052769,
+    "bounce": 0.9346657723392847,
+    "friction": 0.39131074103241825,
+    "hold": 4,
+    "seed": 101
+  },
+  {
+    "path": "episodes/ep_0102.npz",
+    "radius": 3.799955725021518,
+    "bounce": 0.9456787149361936,
+    "friction": 0.5518986096238064,
+    "hold": 5,
+    "seed": 102
+  },
+  {
+    "path": "episodes/ep_0103.npz",
+    "radius": 4.563416163614738,
+    "bounce": 0.6445449185671198,
+    "friction": 0.6292573913170318,
+    "hold": 3,
+    "seed": 103
+  },
+  {
+    "path": "episodes/ep_0104.npz",
+    "radius": 7.192824061847678,
+    "bounce": 0.8675939807792223,
+    "friction": 0.4303115860324137,
+    "hold": 3,
+    "seed": 104
+  },
+  {
+    "path": "episodes/ep_0105.npz",
+    "radius": 6.190976668007723,
+    "bounce": 0.9416844116853913,
+    "friction": 0.5323863039066326,
+    "hold": 3,
+    "seed": 105
+  },
+  {
+    "path": "episodes/ep_0106.npz",
+    "radius": 7.912039277316678,
+    "bounce": 0.6628025906505817,
+    "friction": 0.25336619583120995,
+    "hold": 3,
+    "seed": 106
+  },
+  {
+    "path": "episodes/ep_0107.npz",
+    "radius": 6.242679597001289,
+    "bounce": 0.7078017051140888,
+    "friction": 0.89166175279084,
+    "hold": 4,
+    "seed": 107
+  },
+  {
+    "path": "episodes/ep_0108.npz",
+    "radius": 7.279969086642975,
+    "bounce": 0.7382365088045557,
+    "friction": 0.8150402538754903,
+    "hold": 6,
+    "seed": 108
+  },
+  {
+    "path": "episodes/ep_0109.npz",
+    "radius": 5.718711244588896,
+    "bounce": 0.5757214436204965,
+    "friction": 0.5031090079612005,
+    "hold": 2,
+    "seed": 109
+  },
+  {
+    "path": "episodes/ep_0110.npz",
+    "radius": 7.652464057551501,
+    "bounce": 0.5344003527291501,
+    "friction": 0.6621010110748398,
+    "hold": 3,
+    "seed": 110
+  },
+  {
+    "path": "episodes/ep_0111.npz",
+    "radius": 3.7683067797616645,
+    "bounce": 0.8987982631826171,
+    "friction": 0.8749967255561122,
+    "hold": 6,
+    "seed": 111
+  },
+  {
+    "path": "episodes/ep_0112.npz",
+    "radius": 3.5822950650382768,
+    "bounce": 0.9135494066303443,
+    "friction": 0.30951907588571526,
+    "hold": 2,
+    "seed": 112
+  },
+  {
+    "path": "episodes/ep_0113.npz",
+    "radius": 3.352890531402792,
+    "bounce": 0.7483647495924519,
+    "friction": 0.23636703308682439,
+    "hold": 2,
+    "seed": 113
+  },
+  {
+    "path": "episodes/ep_0114.npz",
+    "radius": 6.6394413725484265,
+    "bounce": 0.7174623863112668,
+    "friction": 0.5107255498623063,
+    "hold": 4,
+    "seed": 114
+  },
+  {
+    "path": "episodes/ep_0115.npz",
+    "radius": 6.511690120943901,
+    "bounce": 0.8128194124000456,
+    "friction": 0.4277908643696805,
+    "hold": 2,
+    "seed": 115
+  },
+  {
+    "path": "episodes/ep_0116.npz",
+    "radius": 3.8618488293568016,
+    "bounce": 0.6500815879937979,
+    "friction": 0.5376576350864878,
+    "hold": 2,
+    "seed": 116
+  },
+  {
+    "path": "episodes/ep_0117.npz",
+    "radius": 7.375058800369301,
+    "bounce": 0.8489226456693477,
+    "friction": 0.4132554021126128,
+    "hold": 2,
+    "seed": 117
+  },
+  {
+    "path": "episodes/ep_0118.npz",
+    "radius": 7.653448223125844,
+    "bounce": 0.836322814520657,
+    "friction": 0.8425026187695318,
+    "hold": 2,
+    "seed": 118
+  },
+  {
+    "path": "episodes/ep_0119.npz",
+    "radius": 7.781201996873049,
+    "bounce": 0.7816981933760525,
+    "friction": 0.11334268864056947,
+    "hold": 3,
+    "seed": 119
+  },
+  {
+    "path": "episodes/ep_0120.npz",
+    "radius": 7.268707796377922,
+    "bounce": 0.7716251225578944,
+    "friction": 0.3985350212028447,
+    "hold": 4,
+    "seed": 120
+  },
+  {
+    "path": "episodes/ep_0121.npz",
+    "radius": 6.16407904409764,
+    "bounce": 0.722256703908992,
+    "friction": 0.4094659635780379,
+    "hold": 7,
+    "seed": 121
+  },
+  {
+    "path": "episodes/ep_0122.npz",
+    "radius": 7.126762884975603,
+    "bounce": 0.8862579774682957,
+    "friction": 0.16015682432040085,
+    "hold": 2,
+    "seed": 122
+  },
+  {
+    "path": "episodes/ep_0123.npz",
+    "radius": 6.411759316240717,
+    "bounce": 0.9616724990135281,
+    "friction": 0.321259518237685,
+    "hold": 4,
+    "seed": 123
+  },
+  {
+    "path": "episodes/ep_0124.npz",
+    "radius": 6.926265570194589,
+    "bounce": 0.5893072245073068,
+    "friction": 0.5709177678409392,
+    "hold": 7,
+    "seed": 124
+  },
+  {
+    "path": "episodes/ep_0125.npz",
+    "radius": 7.258747418004365,
+    "bounce": 0.8931739394836904,
+    "friction": 0.7968755862808639,
+    "hold": 3,
+    "seed": 125
+  },
+  {
+    "path": "episodes/ep_0126.npz",
+    "radius": 3.0308803798432966,
+    "bounce": 0.9085375523077416,
+    "friction": 0.8522661525443765,
+    "hold": 2,
+    "seed": 126
+  },
+  {
+    "path": "episodes/ep_0127.npz",
+    "radius": 3.3123328386668662,
+    "bounce": 0.9798953254743913,
+    "friction": 0.7513931448040271,
+    "hold": 4,
+    "seed": 127
+  },
+  {
+    "path": "episodes/ep_0128.npz",
+    "radius": 6.295896504667837,
+    "bounce": 0.9602911616924489,
+    "friction": 0.7742990745309024,
+    "hold": 3,
+    "seed": 128
+  },
+  {
+    "path": "episodes/ep_0129.npz",
+    "radius": 4.921581859414916,
+    "bounce": 0.9549024069221244,
+    "friction": 0.3859469211994021,
+    "hold": 3,
+    "seed": 129
+  },
+  {
+    "path": "episodes/ep_0130.npz",
+    "radius": 5.266401981149185,
+    "bounce": 0.5047418861456959,
+    "friction": 0.5053922971666349,
+    "hold": 7,
+    "seed": 130
+  },
+  {
+    "path": "episodes/ep_0131.npz",
+    "radius": 6.232317651232668,
+    "bounce": 0.9462532988324639,
+    "friction": 0.5620441397451049,
+    "hold": 7,
+    "seed": 131
+  },
+  {
+    "path": "episodes/ep_0132.npz",
+    "radius": 3.713006622222694,
+    "bounce": 0.7690923770282281,
+    "friction": 0.8524833386934664,
+    "hold": 2,
+    "seed": 132
+  },
+  {
+    "path": "episodes/ep_0133.npz",
+    "radius": 7.8757563409432825,
+    "bounce": 0.9113893394272186,
+    "friction": 0.7984388445921827,
+    "hold": 4,
+    "seed": 133
+  },
+  {
+    "path": "episodes/ep_0134.npz",
+    "radius": 7.84236241991519,
+    "bounce": 0.8753869672510876,
+    "friction": 0.6276293897611557,
+    "hold": 4,
+    "seed": 134
+  },
+  {
+    "path": "episodes/ep_0135.npz",
+    "radius": 5.741162032444352,
+    "bounce": 0.9543937210274369,
+    "friction": 0.5026547762861631,
+    "hold": 5,
+    "seed": 135
+  },
+  {
+    "path": "episodes/ep_0136.npz",
+    "radius": 3.6372101045996654,
+    "bounce": 0.9727984020080287,
+    "friction": 0.2711032779200962,
+    "hold": 5,
+    "seed": 136
+  },
+  {
+    "path": "episodes/ep_0137.npz",
+    "radius": 7.2909102578311415,
+    "bounce": 0.7843009261681381,
+    "friction": 0.3763358939878586,
+    "hold": 4,
+    "seed": 137
+  },
+  {
+    "path": "episodes/ep_0138.npz",
+    "radius": 5.865600921963605,
+    "bounce": 0.824837161956507,
+    "friction": 0.2351271885910678,
+    "hold": 3,
+    "seed": 138
+  },
+  {
+    "path": "episodes/ep_0139.npz",
+    "radius": 5.083812510179314,
+    "bounce": 0.8851256280958304,
+    "friction": 0.2840395347114647,
+    "hold": 6,
+    "seed": 139
+  },
+  {
+    "path": "episodes/ep_0140.npz",
+    "radius": 6.338100249677867,
+    "bounce": 0.7343503604315209,
+    "friction": 0.2752933490579264,
+    "hold": 4,
+    "seed": 140
+  },
+  {
+    "path": "episodes/ep_0141.npz",
+    "radius": 6.681482536940441,
+    "bounce": 0.6920901999233791,
+    "friction": 0.33540611511024176,
+    "hold": 7,
+    "seed": 141
+  },
+  {
+    "path": "episodes/ep_0142.npz",
+    "radius": 3.111450328277119,
+    "bounce": 0.6139708830847219,
+    "friction": 0.3030420748553656,
+    "hold": 4,
+    "seed": 142
+  },
+  {
+    "path": "episodes/ep_0143.npz",
+    "radius": 5.066600798773586,
+    "bounce": 0.6934285762265895,
+    "friction": 0.1930960778976786,
+    "hold": 2,
+    "seed": 143
+  },
+  {
+    "path": "episodes/ep_0144.npz",
+    "radius": 6.96380919999619,
+    "bounce": 0.9707396293422219,
+    "friction": 0.7594729499770627,
+    "hold": 2,
+    "seed": 144
+  },
+  {
+    "path": "episodes/ep_0145.npz",
+    "radius": 6.003152782940639,
+    "bounce": 0.6357720167268239,
+    "friction": 0.716492650475535,
+    "hold": 7,
+    "seed": 145
+  },
+  {
+    "path": "episodes/ep_0146.npz",
+    "radius": 7.002520213689441,
+    "bounce": 0.5561582929000519,
+    "friction": 0.678948655460898,
+    "hold": 3,
+    "seed": 146
+  },
+  {
+    "path": "episodes/ep_0147.npz",
+    "radius": 7.947433406553637,
+    "bounce": 0.5500213049138212,
+    "friction": 0.656094716969338,
+    "hold": 7,
+    "seed": 147
+  },
+  {
+    "path": "episodes/ep_0148.npz",
+    "radius": 6.187246237760141,
+    "bounce": 0.9299502139985277,
+    "friction": 0.27561805318365434,
+    "hold": 5,
+    "seed": 148
+  },
+  {
+    "path": "episodes/ep_0149.npz",
+    "radius": 3.410128499275166,
+    "bounce": 0.7448639497216865,
+    "friction": 0.894095338682915,
+    "hold": 5,
+    "seed": 149
+  },
+  {
+    "path": "episodes/ep_0150.npz",
+    "radius": 3.024110220283055,
+    "bounce": 0.9123236207261186,
+    "friction": 0.18596355125468103,
+    "hold": 3,
+    "seed": 150
+  },
+  {
+    "path": "episodes/ep_0151.npz",
+    "radius": 5.4589692122856475,
+    "bounce": 0.5034317636372181,
+    "friction": 0.8235518809701102,
+    "hold": 2,
+    "seed": 151
+  },
+  {
+    "path": "episodes/ep_0152.npz",
+    "radius": 4.092663508241042,
+    "bounce": 0.9561686066372075,
+    "friction": 0.39781025989860985,
+    "hold": 7,
+    "seed": 152
+  },
+  {
+    "path": "episodes/ep_0153.npz",
+    "radius": 7.675893874021589,
+    "bounce": 0.6927753553766096,
+    "friction": 0.564926466707269,
+    "hold": 7,
+    "seed": 153
+  },
+  {
+    "path": "episodes/ep_0154.npz",
+    "radius": 5.919233274067796,
+    "bounce": 0.7629541157523274,
+    "friction": 0.8004350215481584,
+    "hold": 6,
+    "seed": 154
+  },
+  {
+    "path": "episodes/ep_0155.npz",
+    "radius": 4.557399139408256,
+    "bounce": 0.6055163886153587,
+    "friction": 0.7921877516204748,
+    "hold": 5,
+    "seed": 155
+  },
+  {
+    "path": "episodes/ep_0156.npz",
+    "radius": 3.693600521162054,
+    "bounce": 0.9662119832004333,
+    "friction": 0.6881160722387624,
+    "hold": 4,
+    "seed": 156
+  },
+  {
+    "path": "episodes/ep_0157.npz",
+    "radius": 4.315458582292678,
+    "bounce": 0.5145047083966425,
+    "friction": 0.6751791577887001,
+    "hold": 4,
+    "seed": 157
+  },
+  {
+    "path": "episodes/ep_0158.npz",
+    "radius": 7.845657337478604,
+    "bounce": 0.6734996147401198,
+    "friction": 0.8916881171864839,
+    "hold": 3,
+    "seed": 158
+  },
+  {
+    "path": "episodes/ep_0159.npz",
+    "radius": 7.04970540534539,
+    "bounce": 0.9999157415137172,
+    "friction": 0.8274130378717771,
+    "hold": 4,
+    "seed": 159
+  },
+  {
+    "path": "episodes/ep_0160.npz",
+    "radius": 5.772999603838553,
+    "bounce": 0.6763480219836222,
+    "friction": 0.10752196244006901,
+    "hold": 5,
+    "seed": 160
+  },
+  {
+    "path": "episodes/ep_0161.npz",
+    "radius": 5.343048030730964,
+    "bounce": 0.8960182907992169,
+    "friction": 0.29432684154788086,
+    "hold": 4,
+    "seed": 161
+  },
+  {
+    "path": "episodes/ep_0162.npz",
+    "radius": 3.358589038406599,
+    "bounce": 0.6207476528285782,
+    "friction": 0.2699640825726257,
+    "hold": 6,
+    "seed": 162
+  },
+  {
+    "path": "episodes/ep_0163.npz",
+    "radius": 7.033205565585786,
+    "bounce": 0.6843996671223647,
+    "friction": 0.16645265519878105,
+    "hold": 3,
+    "seed": 163
+  },
+  {
+    "path": "episodes/ep_0164.npz",
+    "radius": 3.3652013972865538,
+    "bounce": 0.7672368193162062,
+    "friction": 0.12536217222958224,
+    "hold": 7,
+    "seed": 164
+  },
+  {
+    "path": "episodes/ep_0165.npz",
+    "radius": 5.313408524012818,
+    "bounce": 0.5564121730058046,
+    "friction": 0.8872433240362044,
+    "hold": 4,
+    "seed": 165
+  },
+  {
+    "path": "episodes/ep_0166.npz",
+    "radius": 6.581206342119826,
+    "bounce": 0.7175144369518914,
+    "friction": 0.21923787462686742,
+    "hold": 4,
+    "seed": 166
+  },
+  {
+    "path": "episodes/ep_0167.npz",
+    "radius": 3.5782716078300076,
+    "bounce": 0.6860690846666273,
+    "friction": 0.7448537460150282,
+    "hold": 7,
+    "seed": 167
+  },
+  {
+    "path": "episodes/ep_0168.npz",
+    "radius": 4.351122893844119,
+    "bounce": 0.5464260515888362,
+    "friction": 0.49381867243186106,
+    "hold": 2,
+    "seed": 168
+  },
+  {
+    "path": "episodes/ep_0169.npz",
+    "radius": 5.3825011086929395,
+    "bounce": 0.891425619688555,
+    "friction": 0.6721390784707406,
+    "hold": 3,
+    "seed": 169
+  },
+  {
+    "path": "episodes/ep_0170.npz",
+    "radius": 6.937092510514028,
+    "bounce": 0.5140353394210307,
+    "friction": 0.14422813766960313,
+    "hold": 6,
+    "seed": 170
+  },
+  {
+    "path": "episodes/ep_0171.npz",
+    "radius": 3.512471669120129,
+    "bounce": 0.6964769921875738,
+    "friction": 0.4555198427167898,
+    "hold": 3,
+    "seed": 171
+  },
+  {
+    "path": "episodes/ep_0172.npz",
+    "radius": 3.8511469191106293,
+    "bounce": 0.7107409847916013,
+    "friction": 0.5494553855181521,
+    "hold": 2,
+    "seed": 172
+  },
+  {
+    "path": "episodes/ep_0173.npz",
+    "radius": 3.341532050902713,
+    "bounce": 0.8970601147815117,
+    "friction": 0.2790167775168733,
+    "hold": 3,
+    "seed": 173
+  },
+  {
+    "path": "episodes/ep_0174.npz",
+    "radius": 7.603755874971751,
+    "bounce": 0.9845320218790404,
+    "friction": 0.816663080212555,
+    "hold": 6,
+    "seed": 174
+  },
+  {
+    "path": "episodes/ep_0175.npz",
+    "radius": 5.816400049195829,
+    "bounce": 0.9025949924507708,
+    "friction": 0.28126491980737,
+    "hold": 5,
+    "seed": 175
+  },
+  {
+    "path": "episodes/ep_0176.npz",
+    "radius": 7.543982855070325,
+    "bounce": 0.9099360599016917,
+    "friction": 0.24536271410208946,
+    "hold": 5,
+    "seed": 176
+  },
+  {
+    "path": "episodes/ep_0177.npz",
+    "radius": 5.429989745945017,
+    "bounce": 0.8943354269440935,
+    "friction": 0.8258719459451996,
+    "hold": 7,
+    "seed": 177
+  },
+  {
+    "path": "episodes/ep_0178.npz",
+    "radius": 6.8041378459446715,
+    "bounce": 0.901810907285291,
+    "friction": 0.6922142195307248,
+    "hold": 7,
+    "seed": 178
+  },
+  {
+    "path": "episodes/ep_0179.npz",
+    "radius": 7.5903476432225965,
+    "bounce": 0.6603435127268773,
+    "friction": 0.8026507821423087,
+    "hold": 4,
+    "seed": 179
+  },
+  {
+    "path": "episodes/ep_0180.npz",
+    "radius": 5.880281758540864,
+    "bounce": 0.6486399587433493,
+    "friction": 0.869732596514648,
+    "hold": 7,
+    "seed": 180
+  },
+  {
+    "path": "episodes/ep_0181.npz",
+    "radius": 6.931146324258997,
+    "bounce": 0.8832645821795344,
+    "friction": 0.4665509610273544,
+    "hold": 2,
+    "seed": 181
+  },
+  {
+    "path": "episodes/ep_0182.npz",
+    "radius": 3.8298864015208056,
+    "bounce": 0.7856006372436208,
+    "friction": 0.3009729940987147,
+    "hold": 3,
+    "seed": 182
+  },
+  {
+    "path": "episodes/ep_0183.npz",
+    "radius": 7.757232662487938,
+    "bounce": 0.929433157205078,
+    "friction": 0.3899590919470718,
+    "hold": 7,
+    "seed": 183
+  },
+  {
+    "path": "episodes/ep_0184.npz",
+    "radius": 3.088908296731857,
+    "bounce": 0.69576039849587,
+    "friction": 0.4136730279556259,
+    "hold": 5,
+    "seed": 184
+  },
+  {
+    "path": "episodes/ep_0185.npz",
+    "radius": 4.097890491694692,
+    "bounce": 0.5123716694781137,
+    "friction": 0.343728461527886,
+    "hold": 7,
+    "seed": 185
+  },
+  {
+    "path": "episodes/ep_0186.npz",
+    "radius": 5.73627216463114,
+    "bounce": 0.6282942373809517,
+    "friction": 0.5072099926915751,
+    "hold": 6,
+    "seed": 186
+  },
+  {
+    "path": "episodes/ep_0187.npz",
+    "radius": 4.271029827852681,
+    "bounce": 0.8417946336205344,
+    "friction": 0.2212120532281456,
+    "hold": 3,
+    "seed": 187
+  },
+  {
+    "path": "episodes/ep_0188.npz",
+    "radius": 3.480554876182353,
+    "bounce": 0.8413880103782756,
+    "friction": 0.3351788221417607,
+    "hold": 6,
+    "seed": 188
+  },
+  {
+    "path": "episodes/ep_0189.npz",
+    "radius": 5.434316506142695,
+    "bounce": 0.5953330491826165,
+    "friction": 0.1454010310277683,
+    "hold": 7,
+    "seed": 189
+  },
+  {
+    "path": "episodes/ep_0190.npz",
+    "radius": 5.658220571816644,
+    "bounce": 0.8072652870364343,
+    "friction": 0.19540102829959036,
+    "hold": 3,
+    "seed": 190
+  },
+  {
+    "path": "episodes/ep_0191.npz",
+    "radius": 7.862956238335356,
+    "bounce": 0.6455521917727413,
+    "friction": 0.7136202421984728,
+    "hold": 4,
+    "seed": 191
+  },
+  {
+    "path": "episodes/ep_0192.npz",
+    "radius": 6.295218354119607,
+    "bounce": 0.6336090040958431,
+    "friction": 0.6101134767362877,
+    "hold": 6,
+    "seed": 192
+  },
+  {
+    "path": "episodes/ep_0193.npz",
+    "radius": 5.530049475180528,
+    "bounce": 0.7417268978490144,
+    "friction": 0.48664151199294325,
+    "hold": 5,
+    "seed": 193
+  },
+  {
+    "path": "episodes/ep_0194.npz",
+    "radius": 7.3236465704836915,
+    "bounce": 0.6514349695028965,
+    "friction": 0.345122876854294,
+    "hold": 3,
+    "seed": 194
+  },
+  {
+    "path": "episodes/ep_0195.npz",
+    "radius": 3.171751942560042,
+    "bounce": 0.5830699494736709,
+    "friction": 0.6190449427550837,
+    "hold": 3,
+    "seed": 195
+  },
+  {
+    "path": "episodes/ep_0196.npz",
+    "radius": 7.4102104232372525,
+    "bounce": 0.5389028750979863,
+    "friction": 0.39450579154066223,
+    "hold": 5,
+    "seed": 196
+  },
+  {
+    "path": "episodes/ep_0197.npz",
+    "radius": 7.672830691485858,
+    "bounce": 0.9914078754403428,
+    "friction": 0.11765671052965754,
+    "hold": 4,
+    "seed": 197
+  },
+  {
+    "path": "episodes/ep_0198.npz",
+    "radius": 6.992929684930616,
+    "bounce": 0.729326825633315,
+    "friction": 0.2442828610055921,
+    "hold": 6,
+    "seed": 198
+  },
+  {
+    "path": "episodes/ep_0199.npz",
+    "radius": 6.369693124463425,
+    "bounce": 0.628417852022777,
+    "friction": 0.15582587722196353,
+    "hold": 6,
+    "seed": 199
+  },
+  {
+    "path": "episodes/ep_0200.npz",
+    "radius": 6.23417071839569,
+    "bounce": 0.7634602208240746,
+    "friction": 0.3993942511226458,
+    "hold": 4,
+    "seed": 200
+  },
+  {
+    "path": "episodes/ep_0201.npz",
+    "radius": 7.953668724395759,
+    "bounce": 0.5756939383666201,
+    "friction": 0.5342363919407885,
+    "hold": 6,
+    "seed": 201
+  },
+  {
+    "path": "episodes/ep_0202.npz",
+    "radius": 4.731437499618711,
+    "bounce": 0.7817554091216368,
+    "friction": 0.7693910513901101,
+    "hold": 3,
+    "seed": 202
+  },
+  {
+    "path": "episodes/ep_0203.npz",
+    "radius": 6.90471524712383,
+    "bounce": 0.8091247195657587,
+    "friction": 0.45147806962806003,
+    "hold": 2,
+    "seed": 203
+  },
+  {
+    "path": "episodes/ep_0204.npz",
+    "radius": 5.682175463695914,
+    "bounce": 0.5294214288416669,
+    "friction": 0.31770857468851843,
+    "hold": 5,
+    "seed": 204
+  },
+  {
+    "path": "episodes/ep_0205.npz",
+    "radius": 7.5409280754848185,
+    "bounce": 0.7312950712270019,
+    "friction": 0.17533409885861329,
+    "hold": 3,
+    "seed": 205
+  },
+  {
+    "path": "episodes/ep_0206.npz",
+    "radius": 7.310047045042303,
+    "bounce": 0.9240266422454692,
+    "friction": 0.7883830823168521,
+    "hold": 6,
+    "seed": 206
+  },
+  {
+    "path": "episodes/ep_0207.npz",
+    "radius": 4.3812830020983,
+    "bounce": 0.9209133296465658,
+    "friction": 0.3288072478735103,
+    "hold": 4,
+    "seed": 207
+  },
+  {
+    "path": "episodes/ep_0208.npz",
+    "radius": 7.77111083209861,
+    "bounce": 0.9244785162947018,
+    "friction": 0.8566082517776116,
+    "hold": 7,
+    "seed": 208
+  },
+  {
+    "path": "episodes/ep_0209.npz",
+    "radius": 4.4252249916334145,
+    "bounce": 0.8793809644173751,
+    "friction": 0.6679588420828342,
+    "hold": 6,
+    "seed": 209
+  },
+  {
+    "path": "episodes/ep_0210.npz",
+    "radius": 6.609395273110515,
+    "bounce": 0.705770293018556,
+    "friction": 0.46906697151325194,
+    "hold": 3,
+    "seed": 210
+  },
+  {
+    "path": "episodes/ep_0211.npz",
+    "radius": 5.233554275192936,
+    "bounce": 0.9647867480277172,
+    "friction": 0.5514662021767248,
+    "hold": 4,
+    "seed": 211
+  },
+  {
+    "path": "episodes/ep_0212.npz",
+    "radius": 5.862779537687823,
+    "bounce": 0.9974967791838313,
+    "friction": 0.6078103848329854,
+    "hold": 6,
+    "seed": 212
+  },
+  {
+    "path": "episodes/ep_0213.npz",
+    "radius": 6.254303393389711,
+    "bounce": 0.9231787019524926,
+    "friction": 0.16877162918479255,
+    "hold": 4,
+    "seed": 213
+  },
+  {
+    "path": "episodes/ep_0214.npz",
+    "radius": 3.4725278692807993,
+    "bounce": 0.9816833823118964,
+    "friction": 0.11590876280968594,
+    "hold": 6,
+    "seed": 214
+  },
+  {
+    "path": "episodes/ep_0215.npz",
+    "radius": 7.554793324632131,
+    "bounce": 0.7275512105264383,
+    "friction": 0.563737659706243,
+    "hold": 4,
+    "seed": 215
+  },
+  {
+    "path": "episodes/ep_0216.npz",
+    "radius": 7.598686031508202,
+    "bounce": 0.7747668164186243,
+    "friction": 0.4716929724825114,
+    "hold": 7,
+    "seed": 216
+  },
+  {
+    "path": "episodes/ep_0217.npz",
+    "radius": 7.292891771461919,
+    "bounce": 0.8367360207757903,
+    "friction": 0.6726531637299579,
+    "hold": 4,
+    "seed": 217
+  },
+  {
+    "path": "episodes/ep_0218.npz",
+    "radius": 7.902469597971101,
+    "bounce": 0.6041217067887223,
+    "friction": 0.19712707109232097,
+    "hold": 3,
+    "seed": 218
+  },
+  {
+    "path": "episodes/ep_0219.npz",
+    "radius": 6.440465856284192,
+    "bounce": 0.5204242977037241,
+    "friction": 0.23722804294619362,
+    "hold": 2,
+    "seed": 219
+  },
+  {
+    "path": "episodes/ep_0220.npz",
+    "radius": 7.453211002738097,
+    "bounce": 0.7931138399647983,
+    "friction": 0.8812428422539907,
+    "hold": 4,
+    "seed": 220
+  },
+  {
+    "path": "episodes/ep_0221.npz",
+    "radius": 5.274696656221129,
+    "bounce": 0.6498193819680549,
+    "friction": 0.2601154350177062,
+    "hold": 4,
+    "seed": 221
+  },
+  {
+    "path": "episodes/ep_0222.npz",
+    "radius": 4.886044799359859,
+    "bounce": 0.7777000816161392,
+    "friction": 0.5256365122314466,
+    "hold": 3,
+    "seed": 222
+  },
+  {
+    "path": "episodes/ep_0223.npz",
+    "radius": 7.433687392553879,
+    "bounce": 0.6984077504406399,
+    "friction": 0.6185187736699753,
+    "hold": 7,
+    "seed": 223
+  },
+  {
+    "path": "episodes/ep_0224.npz",
+    "radius": 5.704290961646008,
+    "bounce": 0.6278892367414931,
+    "friction": 0.8417383851805144,
+    "hold": 3,
+    "seed": 224
+  },
+  {
+    "path": "episodes/ep_0225.npz",
+    "radius": 6.012643056992911,
+    "bounce": 0.6995913208657532,
+    "friction": 0.6841596665149897,
+    "hold": 2,
+    "seed": 225
+  },
+  {
+    "path": "episodes/ep_0226.npz",
+    "radius": 6.360133847329969,
+    "bounce": 0.7289777561488289,
+    "friction": 0.13856494225495306,
+    "hold": 6,
+    "seed": 226
+  },
+  {
+    "path": "episodes/ep_0227.npz",
+    "radius": 5.484309154571465,
+    "bounce": 0.5276774830427662,
+    "friction": 0.876527351920185,
+    "hold": 2,
+    "seed": 227
+  },
+  {
+    "path": "episodes/ep_0228.npz",
+    "radius": 6.307046729208626,
+    "bounce": 0.7000586972440177,
+    "friction": 0.8700384738168931,
+    "hold": 4,
+    "seed": 228
+  },
+  {
+    "path": "episodes/ep_0229.npz",
+    "radius": 7.406497736388077,
+    "bounce": 0.8475705492560044,
+    "friction": 0.37866939081542905,
+    "hold": 6,
+    "seed": 229
+  },
+  {
+    "path": "episodes/ep_0230.npz",
+    "radius": 3.0412997610349213,
+    "bounce": 0.9942304721831099,
+    "friction": 0.8206906487331009,
+    "hold": 5,
+    "seed": 230
+  },
+  {
+    "path": "episodes/ep_0231.npz",
+    "radius": 5.7388398933755385,
+    "bounce": 0.8153675944654837,
+    "friction": 0.20853061153062954,
+    "hold": 7,
+    "seed": 231
+  },
+  {
+    "path": "episodes/ep_0232.npz",
+    "radius": 5.89777769084273,
+    "bounce": 0.6732244049678988,
+    "friction": 0.3959949963582675,
+    "hold": 3,
+    "seed": 232
+  },
+  {
+    "path": "episodes/ep_0233.npz",
+    "radius": 3.4725694622602017,
+    "bounce": 0.5066211658088597,
+    "friction": 0.4008019450450313,
+    "hold": 2,
+    "seed": 233
+  },
+  {
+    "path": "episodes/ep_0234.npz",
+    "radius": 7.002101731549487,
+    "bounce": 0.9278755808017948,
+    "friction": 0.2402782248832268,
+    "hold": 3,
+    "seed": 234
+  },
+  {
+    "path": "episodes/ep_0235.npz",
+    "radius": 5.494612225185601,
+    "bounce": 0.9183357299391176,
+    "friction": 0.38695037260041376,
+    "hold": 4,
+    "seed": 235
+  },
+  {
+    "path": "episodes/ep_0236.npz",
+    "radius": 7.138163928333969,
+    "bounce": 0.5551651179786397,
+    "friction": 0.5695118510663856,
+    "hold": 5,
+    "seed": 236
+  },
+  {
+    "path": "episodes/ep_0237.npz",
+    "radius": 5.388269521510457,
+    "bounce": 0.5232830698314745,
+    "friction": 0.28902029172978405,
+    "hold": 6,
+    "seed": 237
+  },
+  {
+    "path": "episodes/ep_0238.npz",
+    "radius": 5.059460061894319,
+    "bounce": 0.8249092433153292,
+    "friction": 0.37722966675835534,
+    "hold": 6,
+    "seed": 238
+  },
+  {
+    "path": "episodes/ep_0239.npz",
+    "radius": 3.075831763481782,
+    "bounce": 0.6750195385484417,
+    "friction": 0.15130154601405554,
+    "hold": 4,
+    "seed": 239
+  },
+  {
+    "path": "episodes/ep_0240.npz",
+    "radius": 6.295571009964493,
+    "bounce": 0.6197336051943991,
+    "friction": 0.6751635709116491,
+    "hold": 4,
+    "seed": 240
+  },
+  {
+    "path": "episodes/ep_0241.npz",
+    "radius": 4.102735308754424,
+    "bounce": 0.5360705197740527,
+    "friction": 0.4788733851607886,
+    "hold": 5,
+    "seed": 241
+  },
+  {
+    "path": "episodes/ep_0242.npz",
+    "radius": 3.4320524047810403,
+    "bounce": 0.6844841980209397,
+    "friction": 0.6100221061964934,
+    "hold": 4,
+    "seed": 242
+  },
+  {
+    "path": "episodes/ep_0243.npz",
+    "radius": 5.352405487211455,
+    "bounce": 0.7020160693989,
+    "friction": 0.70915612230538,
+    "hold": 6,
+    "seed": 243
+  },
+  {
+    "path": "episodes/ep_0244.npz",
+    "radius": 3.4607791523244433,
+    "bounce": 0.7145757151592824,
+    "friction": 0.21717161241887287,
+    "hold": 3,
+    "seed": 244
+  },
+  {
+    "path": "episodes/ep_0245.npz",
+    "radius": 5.037661088382287,
+    "bounce": 0.9258418544572433,
+    "friction": 0.31423510233028235,
+    "hold": 7,
+    "seed": 245
+  },
+  {
+    "path": "episodes/ep_0246.npz",
+    "radius": 4.262052337070334,
+    "bounce": 0.920446966205146,
+    "friction": 0.875118368720824,
+    "hold": 4,
+    "seed": 246
+  },
+  {
+    "path": "episodes/ep_0247.npz",
+    "radius": 6.793064984856159,
+    "bounce": 0.7564270139813845,
+    "friction": 0.7052594821285935,
+    "hold": 2,
+    "seed": 247
+  },
+  {
+    "path": "episodes/ep_0248.npz",
+    "radius": 6.268648061814249,
+    "bounce": 0.9303499829314268,
+    "friction": 0.5638381594800532,
+    "hold": 7,
+    "seed": 248
+  },
+  {
+    "path": "episodes/ep_0249.npz",
+    "radius": 7.74558287964586,
+    "bounce": 0.506926678943833,
+    "friction": 0.3742997233785226,
+    "hold": 2,
+    "seed": 249
+  },
+  {
+    "path": "episodes/ep_0250.npz",
+    "radius": 4.01978714973401,
+    "bounce": 0.5774110079214765,
+    "friction": 0.5272909809225319,
+    "hold": 4,
+    "seed": 250
+  },
+  {
+    "path": "episodes/ep_0251.npz",
+    "radius": 5.7551780060130655,
+    "bounce": 0.5967475866105746,
+    "friction": 0.21453449457506377,
+    "hold": 6,
+    "seed": 251
+  },
+  {
+    "path": "episodes/ep_0252.npz",
+    "radius": 5.813239105564397,
+    "bounce": 0.8813498993905109,
+    "friction": 0.2757817843568726,
+    "hold": 5,
+    "seed": 252
+  },
+  {
+    "path": "episodes/ep_0253.npz",
+    "radius": 4.275375673530927,
+    "bounce": 0.8288890605172052,
+    "friction": 0.3490092081563687,
+    "hold": 3,
+    "seed": 253
+  },
+  {
+    "path": "episodes/ep_0254.npz",
+    "radius": 5.222361632495608,
+    "bounce": 0.946080094832968,
+    "friction": 0.7036071912676726,
+    "hold": 6,
+    "seed": 254
+  },
+  {
+    "path": "episodes/ep_0255.npz",
+    "radius": 7.042803730322127,
+    "bounce": 0.5682710805647746,
+    "friction": 0.8546381765364263,
+    "hold": 2,
+    "seed": 255
+  },
+  {
+    "path": "episodes/ep_0256.npz",
+    "radius": 6.579912055799568,
+    "bounce": 0.6109616419691513,
+    "friction": 0.8663707847970149,
+    "hold": 3,
+    "seed": 256
+  },
+  {
+    "path": "episodes/ep_0257.npz",
+    "radius": 6.734422124404971,
+    "bounce": 0.9964487638638906,
+    "friction": 0.6126233082334103,
+    "hold": 5,
+    "seed": 257
+  },
+  {
+    "path": "episodes/ep_0258.npz",
+    "radius": 4.756331022484034,
+    "bounce": 0.7999847800605127,
+    "friction": 0.5250239250472054,
+    "hold": 2,
+    "seed": 258
+  },
+  {
+    "path": "episodes/ep_0259.npz",
+    "radius": 5.9986527424803295,
+    "bounce": 0.5584027159349867,
+    "friction": 0.6295875122143544,
+    "hold": 4,
+    "seed": 259
+  },
+  {
+    "path": "episodes/ep_0260.npz",
+    "radius": 7.657718158497776,
+    "bounce": 0.7516898666739498,
+    "friction": 0.5537549810939142,
+    "hold": 7,
+    "seed": 260
+  },
+  {
+    "path": "episodes/ep_0261.npz",
+    "radius": 4.71756693217875,
+    "bounce": 0.6683196266987601,
+    "friction": 0.6705266805387475,
+    "hold": 3,
+    "seed": 261
+  },
+  {
+    "path": "episodes/ep_0262.npz",
+    "radius": 7.202787131939984,
+    "bounce": 0.6674779882894354,
+    "friction": 0.5759687855941392,
+    "hold": 2,
+    "seed": 262
+  },
+  {
+    "path": "episodes/ep_0263.npz",
+    "radius": 4.686384546151851,
+    "bounce": 0.7024023327557205,
+    "friction": 0.4334822783600025,
+    "hold": 4,
+    "seed": 263
+  },
+  {
+    "path": "episodes/ep_0264.npz",
+    "radius": 4.895768809035692,
+    "bounce": 0.796517482989584,
+    "friction": 0.8265272627976996,
+    "hold": 6,
+    "seed": 264
+  },
+  {
+    "path": "episodes/ep_0265.npz",
+    "radius": 4.577769746944025,
+    "bounce": 0.5199879763598307,
+    "friction": 0.4528395826959962,
+    "hold": 7,
+    "seed": 265
+  },
+  {
+    "path": "episodes/ep_0266.npz",
+    "radius": 4.027044550748284,
+    "bounce": 0.6663980893987741,
+    "friction": 0.7706791389700458,
+    "hold": 7,
+    "seed": 266
+  },
+  {
+    "path": "episodes/ep_0267.npz",
+    "radius": 5.890791036854486,
+    "bounce": 0.7746490039441793,
+    "friction": 0.8437074120556082,
+    "hold": 2,
+    "seed": 267
+  },
+  {
+    "path": "episodes/ep_0268.npz",
+    "radius": 7.813459073975561,
+    "bounce": 0.7784542190326295,
+    "friction": 0.2378462401186334,
+    "hold": 6,
+    "seed": 268
+  },
+  {
+    "path": "episodes/ep_0269.npz",
+    "radius": 4.553314764667025,
+    "bounce": 0.6076118698302995,
+    "friction": 0.5412053858888096,
+    "hold": 6,
+    "seed": 269
+  },
+  {
+    "path": "episodes/ep_0270.npz",
+    "radius": 4.943018098336193,
+    "bounce": 0.8738824174395445,
+    "friction": 0.34248052906150395,
+    "hold": 7,
+    "seed": 270
+  },
+  {
+    "path": "episodes/ep_0271.npz",
+    "radius": 6.909897530667527,
+    "bounce": 0.6560013106456786,
+    "friction": 0.32276140129762637,
+    "hold": 3,
+    "seed": 271
+  },
+  {
+    "path": "episodes/ep_0272.npz",
+    "radius": 5.170693631173419,
+    "bounce": 0.6755739502020986,
+    "friction": 0.8874372092764903,
+    "hold": 2,
+    "seed": 272
+  },
+  {
+    "path": "episodes/ep_0273.npz",
+    "radius": 3.960916447381165,
+    "bounce": 0.9279840985597441,
+    "friction": 0.4437274083187397,
+    "hold": 4,
+    "seed": 273
+  },
+  {
+    "path": "episodes/ep_0274.npz",
+    "radius": 7.880498891608683,
+    "bounce": 0.5241235949531764,
+    "friction": 0.6709299764104697,
+    "hold": 7,
+    "seed": 274
+  },
+  {
+    "path": "episodes/ep_0275.npz",
+    "radius": 7.624596723845924,
+    "bounce": 0.7232733418155753,
+    "friction": 0.3160611313663051,
+    "hold": 2,
+    "seed": 275
+  },
+  {
+    "path": "episodes/ep_0276.npz",
+    "radius": 7.110391875312442,
+    "bounce": 0.722501440938391,
+    "friction": 0.8628245709840949,
+    "hold": 3,
+    "seed": 276
+  },
+  {
+    "path": "episodes/ep_0277.npz",
+    "radius": 5.5668394822973255,
+    "bounce": 0.569220165335512,
+    "friction": 0.22241494948082227,
+    "hold": 2,
+    "seed": 277
+  },
+  {
+    "path": "episodes/ep_0278.npz",
+    "radius": 6.495654569153539,
+    "bounce": 0.870478720945713,
+    "friction": 0.8639478560200713,
+    "hold": 5,
+    "seed": 278
+  },
+  {
+    "path": "episodes/ep_0279.npz",
+    "radius": 3.2525528794787006,
+    "bounce": 0.7136790677638507,
+    "friction": 0.10398570930552156,
+    "hold": 2,
+    "seed": 279
+  },
+  {
+    "path": "episodes/ep_0280.npz",
+    "radius": 7.987789951717101,
+    "bounce": 0.6660088138872986,
+    "friction": 0.29616509083814196,
+    "hold": 4,
+    "seed": 280
+  },
+  {
+    "path": "episodes/ep_0281.npz",
+    "radius": 5.221026475899611,
+    "bounce": 0.9250748758560162,
+    "friction": 0.14367575056913326,
+    "hold": 6,
+    "seed": 281
+  },
+  {
+    "path": "episodes/ep_0282.npz",
+    "radius": 6.122645291466215,
+    "bounce": 0.5635362709955622,
+    "friction": 0.5018287382097302,
+    "hold": 2,
+    "seed": 282
+  },
+  {
+    "path": "episodes/ep_0283.npz",
+    "radius": 6.728226905382058,
+    "bounce": 0.9483457537882812,
+    "friction": 0.3964873386173903,
+    "hold": 3,
+    "seed": 283
+  },
+  {
+    "path": "episodes/ep_0284.npz",
+    "radius": 6.150746674793423,
+    "bounce": 0.8286655263606315,
+    "friction": 0.5335243580439325,
+    "hold": 6,
+    "seed": 284
+  },
+  {
+    "path": "episodes/ep_0285.npz",
+    "radius": 3.2088755389428334,
+    "bounce": 0.6239792166168208,
+    "friction": 0.7305276375231904,
+    "hold": 3,
+    "seed": 285
+  },
+  {
+    "path": "episodes/ep_0286.npz",
+    "radius": 5.137309860326292,
+    "bounce": 0.6944274170439586,
+    "friction": 0.3070926117032947,
+    "hold": 6,
+    "seed": 286
+  },
+  {
+    "path": "episodes/ep_0287.npz",
+    "radius": 7.256494614442101,
+    "bounce": 0.7092460526033637,
+    "friction": 0.5913504003529106,
+    "hold": 4,
+    "seed": 287
+  },
+  {
+    "path": "episodes/ep_0288.npz",
+    "radius": 6.666987533478068,
+    "bounce": 0.6894262611682127,
+    "friction": 0.3295600723380273,
+    "hold": 6,
+    "seed": 288
+  },
+  {
+    "path": "episodes/ep_0289.npz",
+    "radius": 7.21412638116795,
+    "bounce": 0.57242488078934,
+    "friction": 0.1498514603111806,
+    "hold": 6,
+    "seed": 289
+  },
+  {
+    "path": "episodes/ep_0290.npz",
+    "radius": 4.963810164326885,
+    "bounce": 0.5632657157443877,
+    "friction": 0.24989369870686737,
+    "hold": 6,
+    "seed": 290
+  },
+  {
+    "path": "episodes/ep_0291.npz",
+    "radius": 3.9654617636125113,
+    "bounce": 0.6048561763829359,
+    "friction": 0.16354215359607027,
+    "hold": 3,
+    "seed": 291
+  },
+  {
+    "path": "episodes/ep_0292.npz",
+    "radius": 6.659612593466425,
+    "bounce": 0.8576864633191154,
+    "friction": 0.5895978408754767,
+    "hold": 4,
+    "seed": 292
+  },
+  {
+    "path": "episodes/ep_0293.npz",
+    "radius": 6.461287586367939,
+    "bounce": 0.5802245687129932,
+    "friction": 0.4172823316726778,
+    "hold": 3,
+    "seed": 293
+  },
+  {
+    "path": "episodes/ep_0294.npz",
+    "radius": 6.233682313136793,
+    "bounce": 0.8812440636101253,
+    "friction": 0.36752232408414554,
+    "hold": 7,
+    "seed": 294
+  },
+  {
+    "path": "episodes/ep_0295.npz",
+    "radius": 3.7064170520483897,
+    "bounce": 0.7167043164627152,
+    "friction": 0.7289002016808145,
+    "hold": 3,
+    "seed": 295
+  },
+  {
+    "path": "episodes/ep_0296.npz",
+    "radius": 6.322204406241459,
+    "bounce": 0.8853807061033045,
+    "friction": 0.588747073574412,
+    "hold": 7,
+    "seed": 296
+  },
+  {
+    "path": "episodes/ep_0297.npz",
+    "radius": 3.372750550967506,
+    "bounce": 0.9480872348204796,
+    "friction": 0.5018953465306127,
+    "hold": 6,
+    "seed": 297
+  },
+  {
+    "path": "episodes/ep_0298.npz",
+    "radius": 5.586871755173924,
+    "bounce": 0.5286113724107783,
+    "friction": 0.35129026163701205,
+    "hold": 6,
+    "seed": 298
+  },
+  {
+    "path": "episodes/ep_0299.npz",
+    "radius": 6.559943261570584,
+    "bounce": 0.529893365632484,
+    "friction": 0.24119971469575063,
+    "hold": 4,
+    "seed": 299
+  },
+  {
+    "path": "episodes/ep_0300.npz",
+    "radius": 6.351850443343768,
+    "bounce": 0.738907011331725,
+    "friction": 0.6560169343161665,
+    "hold": 7,
+    "seed": 300
+  },
+  {
+    "path": "episodes/ep_0301.npz",
+    "radius": 5.00370330740383,
+    "bounce": 0.5492276608149009,
+    "friction": 0.13303884729424098,
+    "hold": 4,
+    "seed": 301
+  },
+  {
+    "path": "episodes/ep_0302.npz",
+    "radius": 6.798731467454882,
+    "bounce": 0.8527394860825745,
+    "friction": 0.6663382139660831,
+    "hold": 4,
+    "seed": 302
+  },
+  {
+    "path": "episodes/ep_0303.npz",
+    "radius": 4.0721620957032645,
+    "bounce": 0.7182012272123017,
+    "friction": 0.7710657732369807,
+    "hold": 7,
+    "seed": 303
+  },
+  {
+    "path": "episodes/ep_0304.npz",
+    "radius": 5.809947891820185,
+    "bounce": 0.5781993692897704,
+    "friction": 0.10532506046589268,
+    "hold": 5,
+    "seed": 304
+  },
+  {
+    "path": "episodes/ep_0305.npz",
+    "radius": 6.576134042020232,
+    "bounce": 0.9664607020588212,
+    "friction": 0.5134823909570395,
+    "hold": 6,
+    "seed": 305
+  },
+  {
+    "path": "episodes/ep_0306.npz",
+    "radius": 3.2904532975692913,
+    "bounce": 0.9904007824416283,
+    "friction": 0.11562465192449034,
+    "hold": 5,
+    "seed": 306
+  },
+  {
+    "path": "episodes/ep_0307.npz",
+    "radius": 6.164601648423663,
+    "bounce": 0.7938377587861256,
+    "friction": 0.768679271979498,
+    "hold": 5,
+    "seed": 307
+  },
+  {
+    "path": "episodes/ep_0308.npz",
+    "radius": 6.431687721315047,
+    "bounce": 0.9431940585670981,
+    "friction": 0.7189070666885841,
+    "hold": 2,
+    "seed": 308
+  },
+  {
+    "path": "episodes/ep_0309.npz",
+    "radius": 4.167728686229104,
+    "bounce": 0.7639530038319082,
+    "friction": 0.3411412903406804,
+    "hold": 7,
+    "seed": 309
+  },
+  {
+    "path": "episodes/ep_0310.npz",
+    "radius": 5.592964371589191,
+    "bounce": 0.7199434754987535,
+    "friction": 0.6478484764079799,
+    "hold": 7,
+    "seed": 310
+  },
+  {
+    "path": "episodes/ep_0311.npz",
+    "radius": 3.7532922112715825,
+    "bounce": 0.9947300410838908,
+    "friction": 0.16564909302270187,
+    "hold": 2,
+    "seed": 311
+  },
+  {
+    "path": "episodes/ep_0312.npz",
+    "radius": 5.746793995628987,
+    "bounce": 0.5050917448814514,
+    "friction": 0.5862870587349973,
+    "hold": 7,
+    "seed": 312
+  },
+  {
+    "path": "episodes/ep_0313.npz",
+    "radius": 6.159112113428503,
+    "bounce": 0.552836928426027,
+    "friction": 0.6493719607343281,
+    "hold": 5,
+    "seed": 313
+  },
+  {
+    "path": "episodes/ep_0314.npz",
+    "radius": 7.612710869942757,
+    "bounce": 0.6289314442432622,
+    "friction": 0.3311204976233968,
+    "hold": 3,
+    "seed": 314
+  },
+  {
+    "path": "episodes/ep_0315.npz",
+    "radius": 6.927438057305534,
+    "bounce": 0.5429105907583687,
+    "friction": 0.6991871297555076,
+    "hold": 5,
+    "seed": 315
+  },
+  {
+    "path": "episodes/ep_0316.npz",
+    "radius": 7.982632731564606,
+    "bounce": 0.6928678561263301,
+    "friction": 0.8100271041096393,
+    "hold": 4,
+    "seed": 316
+  },
+  {
+    "path": "episodes/ep_0317.npz",
+    "radius": 7.671452398413898,
+    "bounce": 0.5540859284852869,
+    "friction": 0.34435275666489296,
+    "hold": 4,
+    "seed": 317
+  },
+  {
+    "path": "episodes/ep_0318.npz",
+    "radius": 7.79452203041566,
+    "bounce": 0.9838507826190068,
+    "friction": 0.4922743549345209,
+    "hold": 5,
+    "seed": 318
+  },
+  {
+    "path": "episodes/ep_0319.npz",
+    "radius": 4.058809425338124,
+    "bounce": 0.833569246062285,
+    "friction": 0.6489727923597848,
+    "hold": 7,
+    "seed": 319
+  },
+  {
+    "path": "episodes/ep_0320.npz",
+    "radius": 7.069428620043987,
+    "bounce": 0.8016920042277835,
+    "friction": 0.7488626809284409,
+    "hold": 6,
+    "seed": 320
+  },
+  {
+    "path": "episodes/ep_0321.npz",
+    "radius": 6.293833476933116,
+    "bounce": 0.8414902858390645,
+    "friction": 0.25035348250797806,
+    "hold": 5,
+    "seed": 321
+  },
+  {
+    "path": "episodes/ep_0322.npz",
+    "radius": 4.543292090178273,
+    "bounce": 0.6092851475255945,
+    "friction": 0.4894582932207717,
+    "hold": 5,
+    "seed": 322
+  },
+  {
+    "path": "episodes/ep_0323.npz",
+    "radius": 4.394063607817565,
+    "bounce": 0.8031769594075453,
+    "friction": 0.8637697970395392,
+    "hold": 6,
+    "seed": 323
+  },
+  {
+    "path": "episodes/ep_0324.npz",
+    "radius": 4.220426176999959,
+    "bounce": 0.5166881601521917,
+    "friction": 0.7392347309996127,
+    "hold": 5,
+    "seed": 324
+  },
+  {
+    "path": "episodes/ep_0325.npz",
+    "radius": 5.342791049756456,
+    "bounce": 0.7469208272089243,
+    "friction": 0.4081230463530059,
+    "hold": 4,
+    "seed": 325
+  },
+  {
+    "path": "episodes/ep_0326.npz",
+    "radius": 3.238444593525329,
+    "bounce": 0.7276779180902109,
+    "friction": 0.5529734240897779,
+    "hold": 7,
+    "seed": 326
+  },
+  {
+    "path": "episodes/ep_0327.npz",
+    "radius": 6.185800179359486,
+    "bounce": 0.9242491048456278,
+    "friction": 0.6342722792387254,
+    "hold": 4,
+    "seed": 327
+  },
+  {
+    "path": "episodes/ep_0328.npz",
+    "radius": 7.63872361611004,
+    "bounce": 0.7300404731190046,
+    "friction": 0.825767167958541,
+    "hold": 5,
+    "seed": 328
+  },
+  {
+    "path": "episodes/ep_0329.npz",
+    "radius": 4.191345338799663,
+    "bounce": 0.9655585886854485,
+    "friction": 0.8456687169449871,
+    "hold": 4,
+    "seed": 329
+  },
+  {
+    "path": "episodes/ep_0330.npz",
+    "radius": 7.9203546258056905,
+    "bounce": 0.5883437288863023,
+    "friction": 0.2219293825922101,
+    "hold": 4,
+    "seed": 330
+  },
+  {
+    "path": "episodes/ep_0331.npz",
+    "radius": 4.6999457207300495,
+    "bounce": 0.9004789694796136,
+    "friction": 0.6791585185813729,
+    "hold": 5,
+    "seed": 331
+  },
+  {
+    "path": "episodes/ep_0332.npz",
+    "radius": 3.650506588192581,
+    "bounce": 0.9992570851950409,
+    "friction": 0.2617981928332551,
+    "hold": 3,
+    "seed": 332
+  },
+  {
+    "path": "episodes/ep_0333.npz",
+    "radius": 7.595009140088852,
+    "bounce": 0.8932494521237371,
+    "friction": 0.5650489014925744,
+    "hold": 2,
+    "seed": 333
+  },
+  {
+    "path": "episodes/ep_0334.npz",
+    "radius": 5.226322271894317,
+    "bounce": 0.7909809729521113,
+    "friction": 0.8960817378156251,
+    "hold": 2,
+    "seed": 334
+  },
+  {
+    "path": "episodes/ep_0335.npz",
+    "radius": 4.638316438911778,
+    "bounce": 0.6618543837777762,
+    "friction": 0.4338444917844021,
+    "hold": 2,
+    "seed": 335
+  },
+  {
+    "path": "episodes/ep_0336.npz",
+    "radius": 7.722456462194329,
+    "bounce": 0.8198538379296731,
+    "friction": 0.13231266803119068,
+    "hold": 6,
+    "seed": 336
+  },
+  {
+    "path": "episodes/ep_0337.npz",
+    "radius": 3.1436883319692974,
+    "bounce": 0.9399787996526869,
+    "friction": 0.8066727451839598,
+    "hold": 5,
+    "seed": 337
+  },
+  {
+    "path": "episodes/ep_0338.npz",
+    "radius": 6.759082668153213,
+    "bounce": 0.9310733271856049,
+    "friction": 0.15172508404710988,
+    "hold": 2,
+    "seed": 338
+  },
+  {
+    "path": "episodes/ep_0339.npz",
+    "radius": 4.462811798582948,
+    "bounce": 0.6219874209177146,
+    "friction": 0.536277659333232,
+    "hold": 7,
+    "seed": 339
+  },
+  {
+    "path": "episodes/ep_0340.npz",
+    "radius": 7.141931199763954,
+    "bounce": 0.9324043661364425,
+    "friction": 0.13603785076385366,
+    "hold": 4,
+    "seed": 340
+  },
+  {
+    "path": "episodes/ep_0341.npz",
+    "radius": 6.0534866963803875,
+    "bounce": 0.8576490051068475,
+    "friction": 0.8383980329938114,
+    "hold": 7,
+    "seed": 341
+  },
+  {
+    "path": "episodes/ep_0342.npz",
+    "radius": 5.9956318237634765,
+    "bounce": 0.8173541850972887,
+    "friction": 0.11942795427307847,
+    "hold": 3,
+    "seed": 342
+  },
+  {
+    "path": "episodes/ep_0343.npz",
+    "radius": 6.935346764068867,
+    "bounce": 0.6318467387267512,
+    "friction": 0.2339122562826419,
+    "hold": 6,
+    "seed": 343
+  },
+  {
+    "path": "episodes/ep_0344.npz",
+    "radius": 6.4941128794788785,
+    "bounce": 0.7161468891502403,
+    "friction": 0.2682628040342899,
+    "hold": 2,
+    "seed": 344
+  },
+  {
+    "path": "episodes/ep_0345.npz",
+    "radius": 6.243973711850904,
+    "bounce": 0.5139235318649722,
+    "friction": 0.6722582272809885,
+    "hold": 7,
+    "seed": 345
+  },
+  {
+    "path": "episodes/ep_0346.npz",
+    "radius": 4.1870453326824055,
+    "bounce": 0.819226905129413,
+    "friction": 0.8520968702799145,
+    "hold": 3,
+    "seed": 346
+  },
+  {
+    "path": "episodes/ep_0347.npz",
+    "radius": 4.402389978391759,
+    "bounce": 0.6769536053014729,
+    "friction": 0.21398780289537653,
+    "hold": 6,
+    "seed": 347
+  },
+  {
+    "path": "episodes/ep_0348.npz",
+    "radius": 4.061045456733474,
+    "bounce": 0.8070847922966922,
+    "friction": 0.7716630531138893,
+    "hold": 2,
+    "seed": 348
+  },
+  {
+    "path": "episodes/ep_0349.npz",
+    "radius": 4.791756255291945,
+    "bounce": 0.9786960126324353,
+    "friction": 0.7999188080628616,
+    "hold": 6,
+    "seed": 349
+  },
+  {
+    "path": "episodes/ep_0350.npz",
+    "radius": 7.484905349485377,
+    "bounce": 0.700580719967538,
+    "friction": 0.10414277084077916,
+    "hold": 3,
+    "seed": 350
+  },
+  {
+    "path": "episodes/ep_0351.npz",
+    "radius": 6.229250733968532,
+    "bounce": 0.5883800120820093,
+    "friction": 0.7090964313053089,
+    "hold": 6,
+    "seed": 351
+  },
+  {
+    "path": "episodes/ep_0352.npz",
+    "radius": 4.3991957486937485,
+    "bounce": 0.9358944439397952,
+    "friction": 0.6208271573232189,
+    "hold": 2,
+    "seed": 352
+  },
+  {
+    "path": "episodes/ep_0353.npz",
+    "radius": 6.942525797937547,
+    "bounce": 0.5055832865776925,
+    "friction": 0.835348134689964,
+    "hold": 7,
+    "seed": 353
+  },
+  {
+    "path": "episodes/ep_0354.npz",
+    "radius": 6.0985439239440105,
+    "bounce": 0.9129570378225844,
+    "friction": 0.6365206222436456,
+    "hold": 3,
+    "seed": 354
+  },
+  {
+    "path": "episodes/ep_0355.npz",
+    "radius": 4.048571564590557,
+    "bounce": 0.5852199040960301,
+    "friction": 0.15020259929292942,
+    "hold": 5,
+    "seed": 355
+  },
+  {
+    "path": "episodes/ep_0356.npz",
+    "radius": 4.395097941884634,
+    "bounce": 0.8606429699400883,
+    "friction": 0.16989585186422565,
+    "hold": 7,
+    "seed": 356
+  },
+  {
+    "path": "episodes/ep_0357.npz",
+    "radius": 4.404631774203333,
+    "bounce": 0.6452530733095179,
+    "friction": 0.2497543829474844,
+    "hold": 7,
+    "seed": 357
+  },
+  {
+    "path": "episodes/ep_0358.npz",
+    "radius": 6.035346755924781,
+    "bounce": 0.5809070048116791,
+    "friction": 0.5500957304909145,
+    "hold": 6,
+    "seed": 358
+  },
+  {
+    "path": "episodes/ep_0359.npz",
+    "radius": 5.224783477721051,
+    "bounce": 0.6330237780523387,
+    "friction": 0.43897210049895463,
+    "hold": 4,
+    "seed": 359
+  },
+  {
+    "path": "episodes/ep_0360.npz",
+    "radius": 7.628916625967343,
+    "bounce": 0.694172508846036,
+    "friction": 0.4135984925639269,
+    "hold": 3,
+    "seed": 360
+  },
+  {
+    "path": "episodes/ep_0361.npz",
+    "radius": 4.908085947761891,
+    "bounce": 0.7185696310449272,
+    "friction": 0.31681080592634214,
+    "hold": 7,
+    "seed": 361
+  },
+  {
+    "path": "episodes/ep_0362.npz",
+    "radius": 3.7045076179197345,
+    "bounce": 0.9296359781233889,
+    "friction": 0.8294612460647982,
+    "hold": 6,
+    "seed": 362
+  },
+  {
+    "path": "episodes/ep_0363.npz",
+    "radius": 7.752780018708583,
+    "bounce": 0.9568323828934939,
+    "friction": 0.8684961772561939,
+    "hold": 6,
+    "seed": 363
+  },
+  {
+    "path": "episodes/ep_0364.npz",
+    "radius": 3.2732270287309695,
+    "bounce": 0.7138404532099976,
+    "friction": 0.2791982592124185,
+    "hold": 4,
+    "seed": 364
+  },
+  {
+    "path": "episodes/ep_0365.npz",
+    "radius": 6.795786687517584,
+    "bounce": 0.8566315467830464,
+    "friction": 0.18649684618390305,
+    "hold": 4,
+    "seed": 365
+  },
+  {
+    "path": "episodes/ep_0366.npz",
+    "radius": 3.7165218808581697,
+    "bounce": 0.911714139136029,
+    "friction": 0.8250043159895937,
+    "hold": 5,
+    "seed": 366
+  },
+  {
+    "path": "episodes/ep_0367.npz",
+    "radius": 4.869246781267227,
+    "bounce": 0.9270734372345955,
+    "friction": 0.8946816501235548,
+    "hold": 6,
+    "seed": 367
+  },
+  {
+    "path": "episodes/ep_0368.npz",
+    "radius": 4.625537053905659,
+    "bounce": 0.8613849798804087,
+    "friction": 0.8815252209663641,
+    "hold": 6,
+    "seed": 368
+  },
+  {
+    "path": "episodes/ep_0369.npz",
+    "radius": 6.991197944581327,
+    "bounce": 0.6620639675808148,
+    "friction": 0.11063864133105002,
+    "hold": 5,
+    "seed": 369
+  },
+  {
+    "path": "episodes/ep_0370.npz",
+    "radius": 7.153030239215882,
+    "bounce": 0.6542809774136484,
+    "friction": 0.655004229068646,
+    "hold": 5,
+    "seed": 370
+  },
+  {
+    "path": "episodes/ep_0371.npz",
+    "radius": 4.633275693680601,
+    "bounce": 0.694798741070298,
+    "friction": 0.8445783684186619,
+    "hold": 2,
+    "seed": 371
+  },
+  {
+    "path": "episodes/ep_0372.npz",
+    "radius": 6.503731888019722,
+    "bounce": 0.6934777666747548,
+    "friction": 0.17178912511163402,
+    "hold": 4,
+    "seed": 372
+  },
+  {
+    "path": "episodes/ep_0373.npz",
+    "radius": 7.705031393770486,
+    "bounce": 0.8697647443356529,
+    "friction": 0.7104989980095205,
+    "hold": 7,
+    "seed": 373
+  },
+  {
+    "path": "episodes/ep_0374.npz",
+    "radius": 3.6033325576635145,
+    "bounce": 0.932548618555949,
+    "friction": 0.8801319373464932,
+    "hold": 2,
+    "seed": 374
+  },
+  {
+    "path": "episodes/ep_0375.npz",
+    "radius": 7.650145373638107,
+    "bounce": 0.6007386793971905,
+    "friction": 0.8835529315599924,
+    "hold": 3,
+    "seed": 375
+  },
+  {
+    "path": "episodes/ep_0376.npz",
+    "radius": 5.368343483384536,
+    "bounce": 0.598918392875929,
+    "friction": 0.1738675296451854,
+    "hold": 3,
+    "seed": 376
+  },
+  {
+    "path": "episodes/ep_0377.npz",
+    "radius": 4.577587217096811,
+    "bounce": 0.6367347143375899,
+    "friction": 0.4796056857767138,
+    "hold": 5,
+    "seed": 377
+  },
+  {
+    "path": "episodes/ep_0378.npz",
+    "radius": 5.821879986040557,
+    "bounce": 0.9789488688542791,
+    "friction": 0.28231414984195374,
+    "hold": 2,
+    "seed": 378
+  },
+  {
+    "path": "episodes/ep_0379.npz",
+    "radius": 6.0905314333367615,
+    "bounce": 0.5149470264208281,
+    "friction": 0.6359752876611806,
+    "hold": 6,
+    "seed": 379
+  },
+  {
+    "path": "episodes/ep_0380.npz",
+    "radius": 4.087566374982527,
+    "bounce": 0.7619377689922565,
+    "friction": 0.15471424564514102,
+    "hold": 4,
+    "seed": 380
+  },
+  {
+    "path": "episodes/ep_0381.npz",
+    "radius": 7.038094068857899,
+    "bounce": 0.7190262845067381,
+    "friction": 0.8819953502360824,
+    "hold": 7,
+    "seed": 381
+  },
+  {
+    "path": "episodes/ep_0382.npz",
+    "radius": 4.331767071997027,
+    "bounce": 0.5676674137901995,
+    "friction": 0.8301639167176044,
+    "hold": 2,
+    "seed": 382
+  },
+  {
+    "path": "episodes/ep_0383.npz",
+    "radius": 3.1943541740416515,
+    "bounce": 0.5942153712376319,
+    "friction": 0.37915808809696416,
+    "hold": 5,
+    "seed": 383
+  },
+  {
+    "path": "episodes/ep_0384.npz",
+    "radius": 5.24882607949775,
+    "bounce": 0.5102201328640055,
+    "friction": 0.47885774198146047,
+    "hold": 7,
+    "seed": 384
+  },
+  {
+    "path": "episodes/ep_0385.npz",
+    "radius": 4.616040144502104,
+    "bounce": 0.9409832530953279,
+    "friction": 0.6140233124714898,
+    "hold": 6,
+    "seed": 385
+  },
+  {
+    "path": "episodes/ep_0386.npz",
+    "radius": 4.162833585797272,
+    "bounce": 0.8757983702657799,
+    "friction": 0.40817342929781997,
+    "hold": 4,
+    "seed": 386
+  },
+  {
+    "path": "episodes/ep_0387.npz",
+    "radius": 4.775559586662623,
+    "bounce": 0.9481771450779388,
+    "friction": 0.40367586129792343,
+    "hold": 7,
+    "seed": 387
+  },
+  {
+    "path": "episodes/ep_0388.npz",
+    "radius": 3.9616062772660916,
+    "bounce": 0.8627310229950786,
+    "friction": 0.14260991764746392,
+    "hold": 3,
+    "seed": 388
+  },
+  {
+    "path": "episodes/ep_0389.npz",
+    "radius": 3.0484591014364777,
+    "bounce": 0.5062728890339028,
+    "friction": 0.7190855993181481,
+    "hold": 6,
+    "seed": 389
+  },
+  {
+    "path": "episodes/ep_0390.npz",
+    "radius": 6.17228466579882,
+    "bounce": 0.9685115703772532,
+    "friction": 0.3558143174557381,
+    "hold": 6,
+    "seed": 390
+  },
+  {
+    "path": "episodes/ep_0391.npz",
+    "radius": 3.0246196463396298,
+    "bounce": 0.7924245497939082,
+    "friction": 0.5067318759658782,
+    "hold": 7,
+    "seed": 391
+  },
+  {
+    "path": "episodes/ep_0392.npz",
+    "radius": 4.258088606316129,
+    "bounce": 0.8110566810027744,
+    "friction": 0.7401975930843334,
+    "hold": 7,
+    "seed": 392
+  },
+  {
+    "path": "episodes/ep_0393.npz",
+    "radius": 4.902117477362397,
+    "bounce": 0.7962557651225817,
+    "friction": 0.3160769661301086,
+    "hold": 4,
+    "seed": 393
+  },
+  {
+    "path": "episodes/ep_0394.npz",
+    "radius": 6.973460918374512,
+    "bounce": 0.604408746357862,
+    "friction": 0.10993182557298989,
+    "hold": 6,
+    "seed": 394
+  },
+  {
+    "path": "episodes/ep_0395.npz",
+    "radius": 3.362720969661895,
+    "bounce": 0.9884497767708752,
+    "friction": 0.2591470523975642,
+    "hold": 4,
+    "seed": 395
+  },
+  {
+    "path": "episodes/ep_0396.npz",
+    "radius": 4.911629315740013,
+    "bounce": 0.6252888579826505,
+    "friction": 0.38765219407313956,
+    "hold": 2,
+    "seed": 396
+  },
+  {
+    "path": "episodes/ep_0397.npz",
+    "radius": 5.144076768211725,
+    "bounce": 0.6463939067671396,
+    "friction": 0.8349693361586841,
+    "hold": 2,
+    "seed": 397
+  },
+  {
+    "path": "episodes/ep_0398.npz",
+    "radius": 7.028817693367658,
+    "bounce": 0.6059790673045821,
+    "friction": 0.1323228618858802,
+    "hold": 2,
+    "seed": 398
+  },
+  {
+    "path": "episodes/ep_0399.npz",
+    "radius": 6.406555151987804,
+    "bounce": 0.5582358572748395,
+    "friction": 0.5231855379151171,
+    "hold": 7,
+    "seed": 399
+  },
+  {
+    "path": "episodes/ep_0400.npz",
+    "radius": 3.9954940548529945,
+    "bounce": 0.7137622102875862,
+    "friction": 0.3884600774577672,
+    "hold": 4,
+    "seed": 400
+  },
+  {
+    "path": "episodes/ep_0401.npz",
+    "radius": 6.466904501465334,
+    "bounce": 0.9154991019213365,
+    "friction": 0.7684531970131158,
+    "hold": 3,
+    "seed": 401
+  },
+  {
+    "path": "episodes/ep_0402.npz",
+    "radius": 4.3240099543737465,
+    "bounce": 0.5779868324590149,
+    "friction": 0.6916134658617923,
+    "hold": 2,
+    "seed": 402
+  },
+  {
+    "path": "episodes/ep_0403.npz",
+    "radius": 3.8880363901398725,
+    "bounce": 0.9812514105725485,
+    "friction": 0.8011038056205129,
+    "hold": 6,
+    "seed": 403
+  },
+  {
+    "path": "episodes/ep_0404.npz",
+    "radius": 4.514521867413484,
+    "bounce": 0.5151476814561815,
+    "friction": 0.4784557349743501,
+    "hold": 2,
+    "seed": 404
+  },
+  {
+    "path": "episodes/ep_0405.npz",
+    "radius": 7.43823395570381,
+    "bounce": 0.5909540906391392,
+    "friction": 0.5418512765871267,
+    "hold": 4,
+    "seed": 405
+  },
+  {
+    "path": "episodes/ep_0406.npz",
+    "radius": 3.3673840626348355,
+    "bounce": 0.9980804367858795,
+    "friction": 0.8180682908212863,
+    "hold": 2,
+    "seed": 406
+  },
+  {
+    "path": "episodes/ep_0407.npz",
+    "radius": 3.799628169254252,
+    "bounce": 0.8250455212309398,
+    "friction": 0.7679046913681432,
+    "hold": 2,
+    "seed": 407
+  },
+  {
+    "path": "episodes/ep_0408.npz",
+    "radius": 5.995135327048179,
+    "bounce": 0.8323200997590683,
+    "friction": 0.6257937187352065,
+    "hold": 7,
+    "seed": 408
+  },
+  {
+    "path": "episodes/ep_0409.npz",
+    "radius": 4.551256498941647,
+    "bounce": 0.6682341028565076,
+    "friction": 0.8899114967734777,
+    "hold": 6,
+    "seed": 409
+  },
+  {
+    "path": "episodes/ep_0410.npz",
+    "radius": 5.280418241120374,
+    "bounce": 0.9106889524253974,
+    "friction": 0.43955488330521253,
+    "hold": 5,
+    "seed": 410
+  },
+  {
+    "path": "episodes/ep_0411.npz",
+    "radius": 3.585531896460517,
+    "bounce": 0.8896841818306556,
+    "friction": 0.8977494629280944,
+    "hold": 4,
+    "seed": 411
+  },
+  {
+    "path": "episodes/ep_0412.npz",
+    "radius": 6.5078014361931364,
+    "bounce": 0.8162397963078717,
+    "friction": 0.12378937252351774,
+    "hold": 7,
+    "seed": 412
+  },
+  {
+    "path": "episodes/ep_0413.npz",
+    "radius": 3.231102389841104,
+    "bounce": 0.5704826945274404,
+    "friction": 0.2643149268398549,
+    "hold": 5,
+    "seed": 413
+  },
+  {
+    "path": "episodes/ep_0414.npz",
+    "radius": 5.224173896232575,
+    "bounce": 0.9267617981122934,
+    "friction": 0.5677432506764193,
+    "hold": 3,
+    "seed": 414
+  },
+  {
+    "path": "episodes/ep_0415.npz",
+    "radius": 6.846660972755574,
+    "bounce": 0.8669201327827377,
+    "friction": 0.8136590740149401,
+    "hold": 4,
+    "seed": 415
+  },
+  {
+    "path": "episodes/ep_0416.npz",
+    "radius": 3.011192200045786,
+    "bounce": 0.7274748663884906,
+    "friction": 0.7233975424509173,
+    "hold": 7,
+    "seed": 416
+  },
+  {
+    "path": "episodes/ep_0417.npz",
+    "radius": 7.764044983511124,
+    "bounce": 0.9911537814430482,
+    "friction": 0.7345494715349664,
+    "hold": 3,
+    "seed": 417
+  },
+  {
+    "path": "episodes/ep_0418.npz",
+    "radius": 4.5961356874678785,
+    "bounce": 0.8607254057841618,
+    "friction": 0.8520852218109564,
+    "hold": 3,
+    "seed": 418
+  },
+  {
+    "path": "episodes/ep_0419.npz",
+    "radius": 7.876447408197468,
+    "bounce": 0.8877681182608634,
+    "friction": 0.37832689033918754,
+    "hold": 7,
+    "seed": 419
+  },
+  {
+    "path": "episodes/ep_0420.npz",
+    "radius": 6.887133792297604,
+    "bounce": 0.5095962377527268,
+    "friction": 0.4980805258484301,
+    "hold": 5,
+    "seed": 420
+  },
+  {
+    "path": "episodes/ep_0421.npz",
+    "radius": 3.9112960660629934,
+    "bounce": 0.9437583148949165,
+    "friction": 0.8307137747302845,
+    "hold": 6,
+    "seed": 421
+  },
+  {
+    "path": "episodes/ep_0422.npz",
+    "radius": 6.0943218819513305,
+    "bounce": 0.55094651343953,
+    "friction": 0.7198712568370685,
+    "hold": 3,
+    "seed": 422
+  },
+  {
+    "path": "episodes/ep_0423.npz",
+    "radius": 5.996011459633185,
+    "bounce": 0.8595451587224019,
+    "friction": 0.8441186127279492,
+    "hold": 7,
+    "seed": 423
+  },
+  {
+    "path": "episodes/ep_0424.npz",
+    "radius": 6.722185867743557,
+    "bounce": 0.9094026732169027,
+    "friction": 0.4025386511793374,
+    "hold": 6,
+    "seed": 424
+  },
+  {
+    "path": "episodes/ep_0425.npz",
+    "radius": 3.443977598588609,
+    "bounce": 0.863027665647597,
+    "friction": 0.6512902429825289,
+    "hold": 4,
+    "seed": 425
+  },
+  {
+    "path": "episodes/ep_0426.npz",
+    "radius": 5.704471831766109,
+    "bounce": 0.7833624237815849,
+    "friction": 0.7327728854054824,
+    "hold": 5,
+    "seed": 426
+  },
+  {
+    "path": "episodes/ep_0427.npz",
+    "radius": 5.73096459218757,
+    "bounce": 0.7355927671742596,
+    "friction": 0.7480412711234202,
+    "hold": 4,
+    "seed": 427
+  },
+  {
+    "path": "episodes/ep_0428.npz",
+    "radius": 6.191201937477022,
+    "bounce": 0.9429171632208473,
+    "friction": 0.1850143946361924,
+    "hold": 6,
+    "seed": 428
+  },
+  {
+    "path": "episodes/ep_0429.npz",
+    "radius": 5.760226330825407,
+    "bounce": 0.9740401090272546,
+    "friction": 0.10556543018508827,
+    "hold": 7,
+    "seed": 429
+  },
+  {
+    "path": "episodes/ep_0430.npz",
+    "radius": 6.740674003632086,
+    "bounce": 0.5714973679245823,
+    "friction": 0.7525559579785972,
+    "hold": 3,
+    "seed": 430
+  },
+  {
+    "path": "episodes/ep_0431.npz",
+    "radius": 3.2892540474121086,
+    "bounce": 0.7078055332511313,
+    "friction": 0.24862474533565201,
+    "hold": 4,
+    "seed": 431
+  },
+  {
+    "path": "episodes/ep_0432.npz",
+    "radius": 6.291564528778185,
+    "bounce": 0.5973647661014958,
+    "friction": 0.6544338326665251,
+    "hold": 6,
+    "seed": 432
+  },
+  {
+    "path": "episodes/ep_0433.npz",
+    "radius": 4.848812111735839,
+    "bounce": 0.6503869686455239,
+    "friction": 0.5328294164945487,
+    "hold": 5,
+    "seed": 433
+  },
+  {
+    "path": "episodes/ep_0434.npz",
+    "radius": 4.162717590207922,
+    "bounce": 0.6134458180330434,
+    "friction": 0.44058415553554564,
+    "hold": 2,
+    "seed": 434
+  },
+  {
+    "path": "episodes/ep_0435.npz",
+    "radius": 6.817568529239505,
+    "bounce": 0.8652997541288441,
+    "friction": 0.5894043747623567,
+    "hold": 3,
+    "seed": 435
+  },
+  {
+    "path": "episodes/ep_0436.npz",
+    "radius": 4.278374049360984,
+    "bounce": 0.6703579412611005,
+    "friction": 0.5251238376310937,
+    "hold": 6,
+    "seed": 436
+  },
+  {
+    "path": "episodes/ep_0437.npz",
+    "radius": 4.238307408726465,
+    "bounce": 0.8449038785860297,
+    "friction": 0.41528330677243586,
+    "hold": 6,
+    "seed": 437
+  },
+  {
+    "path": "episodes/ep_0438.npz",
+    "radius": 7.295291885413525,
+    "bounce": 0.7658575447007597,
+    "friction": 0.6926285899880882,
+    "hold": 7,
+    "seed": 438
+  },
+  {
+    "path": "episodes/ep_0439.npz",
+    "radius": 7.858723830497311,
+    "bounce": 0.6414239188698156,
+    "friction": 0.6049174059911545,
+    "hold": 3,
+    "seed": 439
+  },
+  {
+    "path": "episodes/ep_0440.npz",
+    "radius": 7.8807175610341815,
+    "bounce": 0.6010415196249332,
+    "friction": 0.7197894794314512,
+    "hold": 6,
+    "seed": 440
+  },
+  {
+    "path": "episodes/ep_0441.npz",
+    "radius": 4.0253192910359985,
+    "bounce": 0.8420445519560948,
+    "friction": 0.10042741867990977,
+    "hold": 5,
+    "seed": 441
+  },
+  {
+    "path": "episodes/ep_0442.npz",
+    "radius": 5.145044158147948,
+    "bounce": 0.9378239265753654,
+    "friction": 0.8905378987283123,
+    "hold": 4,
+    "seed": 442
+  },
+  {
+    "path": "episodes/ep_0443.npz",
+    "radius": 3.326669680854994,
+    "bounce": 0.7238793016449905,
+    "friction": 0.7438473732586661,
+    "hold": 3,
+    "seed": 443
+  },
+  {
+    "path": "episodes/ep_0444.npz",
+    "radius": 7.121270469259393,
+    "bounce": 0.5079435701808241,
+    "friction": 0.4075096747070932,
+    "hold": 2,
+    "seed": 444
+  },
+  {
+    "path": "episodes/ep_0445.npz",
+    "radius": 5.626931605858879,
+    "bounce": 0.9758728392909193,
+    "friction": 0.7606538142159649,
+    "hold": 6,
+    "seed": 445
+  },
+  {
+    "path": "episodes/ep_0446.npz",
+    "radius": 6.649373658781612,
+    "bounce": 0.7414482870088739,
+    "friction": 0.17075508722742255,
+    "hold": 6,
+    "seed": 446
+  },
+  {
+    "path": "episodes/ep_0447.npz",
+    "radius": 6.195928839829489,
+    "bounce": 0.943709480489902,
+    "friction": 0.8964551837993194,
+    "hold": 2,
+    "seed": 447
+  },
+  {
+    "path": "episodes/ep_0448.npz",
+    "radius": 3.1620287678128047,
+    "bounce": 0.58493520553625,
+    "friction": 0.5843993812273268,
+    "hold": 6,
+    "seed": 448
+  },
+  {
+    "path": "episodes/ep_0449.npz",
+    "radius": 7.445777617924953,
+    "bounce": 0.7266161365124334,
+    "friction": 0.19631051618645642,
+    "hold": 3,
+    "seed": 449
+  },
+  {
+    "path": "episodes/ep_0450.npz",
+    "radius": 5.461798624161625,
+    "bounce": 0.9495775439062513,
+    "friction": 0.3031650485212934,
+    "hold": 4,
+    "seed": 450
+  },
+  {
+    "path": "episodes/ep_0451.npz",
+    "radius": 5.008173124340184,
+    "bounce": 0.5885101699810308,
+    "friction": 0.18916924869006613,
+    "hold": 7,
+    "seed": 451
+  },
+  {
+    "path": "episodes/ep_0452.npz",
+    "radius": 7.798109280661987,
+    "bounce": 0.6161067331822232,
+    "friction": 0.3662286619323598,
+    "hold": 6,
+    "seed": 452
+  },
+  {
+    "path": "episodes/ep_0453.npz",
+    "radius": 3.926015070557284,
+    "bounce": 0.7371292138699834,
+    "friction": 0.31486392490443005,
+    "hold": 4,
+    "seed": 453
+  },
+  {
+    "path": "episodes/ep_0454.npz",
+    "radius": 3.564507194093979,
+    "bounce": 0.8539116169353949,
+    "friction": 0.25855758136201096,
+    "hold": 2,
+    "seed": 454
+  },
+  {
+    "path": "episodes/ep_0455.npz",
+    "radius": 5.0429249721665395,
+    "bounce": 0.5012563445765047,
+    "friction": 0.6046897328488635,
+    "hold": 3,
+    "seed": 455
+  },
+  {
+    "path": "episodes/ep_0456.npz",
+    "radius": 5.348366221823828,
+    "bounce": 0.6521540965567587,
+    "friction": 0.7368421466426274,
+    "hold": 2,
+    "seed": 456
+  },
+  {
+    "path": "episodes/ep_0457.npz",
+    "radius": 4.901189958768829,
+    "bounce": 0.8554040021734954,
+    "friction": 0.4843409852039595,
+    "hold": 3,
+    "seed": 457
+  },
+  {
+    "path": "episodes/ep_0458.npz",
+    "radius": 6.0799190901267455,
+    "bounce": 0.9743269262249623,
+    "friction": 0.46307331296288134,
+    "hold": 3,
+    "seed": 458
+  },
+  {
+    "path": "episodes/ep_0459.npz",
+    "radius": 7.355064775303038,
+    "bounce": 0.6418151725224688,
+    "friction": 0.43738349758128825,
+    "hold": 5,
+    "seed": 459
+  },
+  {
+    "path": "episodes/ep_0460.npz",
+    "radius": 3.0905388246864938,
+    "bounce": 0.5634783807082958,
+    "friction": 0.251309397965677,
+    "hold": 4,
+    "seed": 460
+  },
+  {
+    "path": "episodes/ep_0461.npz",
+    "radius": 7.236474201305416,
+    "bounce": 0.9306068621717001,
+    "friction": 0.768739353678903,
+    "hold": 2,
+    "seed": 461
+  },
+  {
+    "path": "episodes/ep_0462.npz",
+    "radius": 7.386833097852242,
+    "bounce": 0.8598320663449384,
+    "friction": 0.7889112800553234,
+    "hold": 4,
+    "seed": 462
+  },
+  {
+    "path": "episodes/ep_0463.npz",
+    "radius": 7.553711703872952,
+    "bounce": 0.5350110346489041,
+    "friction": 0.8129882914522455,
+    "hold": 7,
+    "seed": 463
+  },
+  {
+    "path": "episodes/ep_0464.npz",
+    "radius": 5.762697426538842,
+    "bounce": 0.9818928718097697,
+    "friction": 0.780160799708359,
+    "hold": 3,
+    "seed": 464
+  },
+  {
+    "path": "episodes/ep_0465.npz",
+    "radius": 7.4613375168452265,
+    "bounce": 0.7901742908784596,
+    "friction": 0.31651933623136036,
+    "hold": 3,
+    "seed": 465
+  },
+  {
+    "path": "episodes/ep_0466.npz",
+    "radius": 3.9116270969407654,
+    "bounce": 0.7222152476506818,
+    "friction": 0.12348149879422428,
+    "hold": 2,
+    "seed": 466
+  },
+  {
+    "path": "episodes/ep_0467.npz",
+    "radius": 5.647079560200058,
+    "bounce": 0.8824708143147417,
+    "friction": 0.45075384151699527,
+    "hold": 5,
+    "seed": 467
+  },
+  {
+    "path": "episodes/ep_0468.npz",
+    "radius": 6.972651211163061,
+    "bounce": 0.5070341004467431,
+    "friction": 0.8722840693405813,
+    "hold": 2,
+    "seed": 468
+  },
+  {
+    "path": "episodes/ep_0469.npz",
+    "radius": 5.5253792374901805,
+    "bounce": 0.9604714260704643,
+    "friction": 0.4995416679202326,
+    "hold": 7,
+    "seed": 469
+  },
+  {
+    "path": "episodes/ep_0470.npz",
+    "radius": 5.306362656956196,
+    "bounce": 0.647728800692774,
+    "friction": 0.5900997665643644,
+    "hold": 7,
+    "seed": 470
+  },
+  {
+    "path": "episodes/ep_0471.npz",
+    "radius": 4.991897207081079,
+    "bounce": 0.8424481491775917,
+    "friction": 0.7658520861970908,
+    "hold": 6,
+    "seed": 471
+  },
+  {
+    "path": "episodes/ep_0472.npz",
+    "radius": 5.695371855840683,
+    "bounce": 0.6500841804872872,
+    "friction": 0.8469868695551548,
+    "hold": 6,
+    "seed": 472
+  },
+  {
+    "path": "episodes/ep_0473.npz",
+    "radius": 6.853985389374428,
+    "bounce": 0.5683436942728125,
+    "friction": 0.252054968788184,
+    "hold": 5,
+    "seed": 473
+  },
+  {
+    "path": "episodes/ep_0474.npz",
+    "radius": 6.990110978789529,
+    "bounce": 0.750010069541225,
+    "friction": 0.8231717182528453,
+    "hold": 5,
+    "seed": 474
+  },
+  {
+    "path": "episodes/ep_0475.npz",
+    "radius": 3.2925042638386897,
+    "bounce": 0.6872824788194462,
+    "friction": 0.5520128544868769,
+    "hold": 5,
+    "seed": 475
+  },
+  {
+    "path": "episodes/ep_0476.npz",
+    "radius": 3.1947017302447946,
+    "bounce": 0.9204612767172942,
+    "friction": 0.23558768145576547,
+    "hold": 2,
+    "seed": 476
+  },
+  {
+    "path": "episodes/ep_0477.npz",
+    "radius": 7.198643250416983,
+    "bounce": 0.6040202289712641,
+    "friction": 0.2295467407566683,
+    "hold": 6,
+    "seed": 477
+  },
+  {
+    "path": "episodes/ep_0478.npz",
+    "radius": 5.209415618812845,
+    "bounce": 0.8474407025519153,
+    "friction": 0.7773443476807399,
+    "hold": 3,
+    "seed": 478
+  },
+  {
+    "path": "episodes/ep_0479.npz",
+    "radius": 4.290437572990172,
+    "bounce": 0.5692283298664145,
+    "friction": 0.40276136946005414,
+    "hold": 4,
+    "seed": 479
+  },
+  {
+    "path": "episodes/ep_0480.npz",
+    "radius": 6.708889173320291,
+    "bounce": 0.739457498045665,
+    "friction": 0.868782321605597,
+    "hold": 2,
+    "seed": 480
+  },
+  {
+    "path": "episodes/ep_0481.npz",
+    "radius": 7.332748240043992,
+    "bounce": 0.6169785210298627,
+    "friction": 0.5202338876489867,
+    "hold": 3,
+    "seed": 481
+  },
+  {
+    "path": "episodes/ep_0482.npz",
+    "radius": 6.632189909722044,
+    "bounce": 0.6207182482115383,
+    "friction": 0.5045356975307812,
+    "hold": 2,
+    "seed": 482
+  },
+  {
+    "path": "episodes/ep_0483.npz",
+    "radius": 3.5470359711809554,
+    "bounce": 0.9544003073249726,
+    "friction": 0.1227154038391296,
+    "hold": 5,
+    "seed": 483
+  },
+  {
+    "path": "episodes/ep_0484.npz",
+    "radius": 3.281297506255668,
+    "bounce": 0.966467381088359,
+    "friction": 0.14338435185793222,
+    "hold": 2,
+    "seed": 484
+  },
+  {
+    "path": "episodes/ep_0485.npz",
+    "radius": 5.702391511914637,
+    "bounce": 0.9047556557504808,
+    "friction": 0.30793516062901427,
+    "hold": 5,
+    "seed": 485
+  },
+  {
+    "path": "episodes/ep_0486.npz",
+    "radius": 7.00264153298862,
+    "bounce": 0.9555058526726437,
+    "friction": 0.4195292554422275,
+    "hold": 6,
+    "seed": 486
+  },
+  {
+    "path": "episodes/ep_0487.npz",
+    "radius": 5.5980945927811625,
+    "bounce": 0.7894962600610429,
+    "friction": 0.7396461753870079,
+    "hold": 2,
+    "seed": 487
+  },
+  {
+    "path": "episodes/ep_0488.npz",
+    "radius": 3.066326572488897,
+    "bounce": 0.9748876435312106,
+    "friction": 0.4651158797365269,
+    "hold": 5,
+    "seed": 488
+  },
+  {
+    "path": "episodes/ep_0489.npz",
+    "radius": 6.159094490070527,
+    "bounce": 0.7270963199858755,
+    "friction": 0.15090519208387188,
+    "hold": 3,
+    "seed": 489
+  },
+  {
+    "path": "episodes/ep_0490.npz",
+    "radius": 4.4805174240660195,
+    "bounce": 0.7541536829630853,
+    "friction": 0.6996508661276221,
+    "hold": 6,
+    "seed": 490
+  },
+  {
+    "path": "episodes/ep_0491.npz",
+    "radius": 6.823236464934881,
+    "bounce": 0.6002262561418894,
+    "friction": 0.7476226773915654,
+    "hold": 3,
+    "seed": 491
+  },
+  {
+    "path": "episodes/ep_0492.npz",
+    "radius": 5.943821913771332,
+    "bounce": 0.8694838531575333,
+    "friction": 0.7164990811944877,
+    "hold": 5,
+    "seed": 492
+  },
+  {
+    "path": "episodes/ep_0493.npz",
+    "radius": 7.327555112498369,
+    "bounce": 0.6206329803456097,
+    "friction": 0.2121506706050628,
+    "hold": 3,
+    "seed": 493
+  },
+  {
+    "path": "episodes/ep_0494.npz",
+    "radius": 7.478368767976864,
+    "bounce": 0.9470911585168027,
+    "friction": 0.4910541916946648,
+    "hold": 5,
+    "seed": 494
+  },
+  {
+    "path": "episodes/ep_0495.npz",
+    "radius": 6.0708408064864505,
+    "bounce": 0.5037769991778227,
+    "friction": 0.484731262194242,
+    "hold": 4,
+    "seed": 495
+  },
+  {
+    "path": "episodes/ep_0496.npz",
+    "radius": 7.6307352198843255,
+    "bounce": 0.7731106920017212,
+    "friction": 0.5946203786815466,
+    "hold": 7,
+    "seed": 496
+  },
+  {
+    "path": "episodes/ep_0497.npz",
+    "radius": 5.3204688788228856,
+    "bounce": 0.649199068303971,
+    "friction": 0.8978236771862458,
+    "hold": 2,
+    "seed": 497
+  },
+  {
+    "path": "episodes/ep_0498.npz",
+    "radius": 6.887129021423817,
+    "bounce": 0.7126292955408173,
+    "friction": 0.15463977123328965,
+    "hold": 7,
+    "seed": 498
+  },
+  {
+    "path": "episodes/ep_0499.npz",
+    "radius": 7.709086325937837,
+    "bounce": 0.8663257560714437,
+    "friction": 0.554180693810308,
+    "hold": 3,
+    "seed": 499
+  }
+]

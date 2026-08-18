@@ -1,0 +1,2 @@
+1. I plan to use Godot OS.create_process to execute a process running my main.py, we can just use pipes to communicate! No sockets necessary
+2. Actually I will use OS.execute_with_pipe
