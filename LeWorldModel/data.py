@@ -14,7 +14,7 @@ def init_frame(empty_frame, x, y, r=5, w=1.5):
     empty_frame[y_min:y_max, x_min:x_max] = np.maximum(empty_frame[y_min:y_max, x_min:x_max], alpha)
     return empty_frame
 # Physics Engine 
-def physics_process(x, y, init_x_vel, init_y_vel, rng, offset=2, bounce=0.9, friction=0.0, g = 9.81, hold=4, action_force=3, shape=(64, 64), r=5, w=1.5, dt=0.1, frames=60):
+def physics_process(x, y, init_x_vel, init_y_vel, rng, bounce=0.9, friction=0.0, g = 9.81, hold=4, action_force=3, shape=(64, 64), r=5, w=1.5, dt=0.1, frames=60):
     h_img, w_img = shape
     curr_x, curr_y = float(x), float(y)
     vel_x, vel_y = float(init_x_vel), float(init_y_vel)

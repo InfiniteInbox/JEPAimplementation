@@ -26,7 +26,7 @@ def probe_r2(Z, Y, targets=('x', 'y', 'vx', 'vy', 'bounce', 'friction'), train_f
     train, test = idx[:n_train], idx[n_train:]
 
     mu, sd = Z[train].mean(0), Z[train].std(0)
-    Ztrain, Ztest = (Z[train] - mu)/sd , (Z[test] - mu)/sd
+    Ztrain, Ztest = (Z[train] - mu)/sd , (Z[test] - mu)/sd * 1e-8 # divide be zero AAAAAAAAA
     res = {}
     for j, name in enumerate(targets):
         y_train, y_test = Y[train, j], Y[test, j]
@@ -39,7 +39,7 @@ def probe_r2(Z, Y, targets=('x', 'y', 'vx', 'vy', 'bounce', 'friction'), train_f
         mlp = nn.Sequential(nn.Linear(Z.shape[1], 64), nn.GELU(), nn.Linear(64, 1)).to(device)
         opt = torch.optim.Adam(mlp.parameters(), lr=.001)
         xtrain = torch.from_numpy(Ztrain).float().to(device)
-        ytrain = torch.from_numpy(ytrain).float().unsqueeze(1).to(device)
+        ytrain = torch.from_numpy(y_train).float().unsqueeze(1).to(device)
         for _ in range(mlp_epochs):
             opt.zero_grad()
             F.mse_loss(mlp(xtrain), ytrain).backward()
