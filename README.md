@@ -1,6 +1,8 @@
 # Energy-Based Learning and JEPA Experiments
+
 Backend and pipeline for the **LeWorldModel** Godot Sim in the companion repo:
 👉 [https://github.com/InfiniteInbox/JEPAimplementation](https://github.com/InfiniteInbox/i-jepa-sim)
+
 This repository is a personal implementation study of energy-based learning, world models, and Joint-Embedding Predictive Architectures (JEPAs). It follows ideas from the papers below and turns them into small, inspectable experiments using PyTorch and synthetic physics data.
 
 The project is intentionally experimental. The implementations are learning tools and research prototypes rather than production-ready reproductions of the papers.
